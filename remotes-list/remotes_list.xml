@@ -1151,7 +1151,90 @@ led - led
         <remote country='universal' name='ca_dvb_24' />
     </remotes>
 
-    <!-- DVB END-->
+    <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='ViewSonic' category='projector'>
+        <remote  name='pr_view_sonic_1' />
+    </remotes>
+
+
+
+    <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='LG' category='projector'>
+        <remote  name='pr_lg_1' />
+    </remotes>
+
+
+
+    <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='Haier' category='tv'>
+        <remote name='th014' />
+        <remote  name='tv_haier_1' />
+        <remote  name='tv_haier_2' />
+    </remotes>
+
+
+
+    <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='LED' category='led'>
+        <remote  name='led_1' />
+        <remote  name='led_2' />
+    </remotes>
+
+
+
+    <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='Magnavox' category='dvr'>
+        <remote  name='dvr_magnavox_1' />
+    </remotes>
+
+
+
+    <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='Hikvision' category='dvr'>
+        <remote  name='dvr_hikvision_1' />
+    </remotes>
+
+
+
+    <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='' category=''>
+        <remote  name='' />
+    </remotes>
+
+
+
+    <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='Hitachi' category='projector'>
+        <remote  name='pr_hitachi_1' />
+    </remotes>
+
+
+
+    <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='Tivo' category='dvr'>
+        <remote  name='dvr_tivo_1' />
+    </remotes>
+
+
+
+    <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='Xiaomi' category='tv_box'>
+        <remote  name='tb_xiaomi_1' />
+    </remotes>
+
+
+
+    <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='Yamaha' category='audio_receiver'>
+        <remote  name='ar_yamaha_1' />
+    </remotes>
+
+
+
+    <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='Sanyo' category='projector'>
+        <remote  name='pr_sanyo_1' />
+    </remotes>
+
+
+
+    <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='York' category='ac'>
+        <remote  name='ac_york_1' />
+    </remotes>
+
+
+
+
+
+
 
 
 

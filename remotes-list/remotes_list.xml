@@ -1232,11 +1232,6 @@ led - led
 
 
 
-
-
-
-
-
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='InFocus' category='projector'>
         <remote name='pr_in_focus_1' />
     </remotes>
@@ -1305,7 +1300,6 @@ led - led
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Goodman' category='tv'>
         <remote name='tv_goodman_1' />
     </remotes>
-
 
 
     <!-- OZVI BUCKET END -->

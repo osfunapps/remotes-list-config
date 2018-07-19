@@ -1258,8 +1258,8 @@ led - led
         <remote name='ac_beko_1' />
     </remotes>
 
-    <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Sony' category='ac'>
-        <remote name='ac_sony_1' />
+    <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Sony' category='projector'>
+        <remote name='pr_sony_1' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Xbox One' category='game'>

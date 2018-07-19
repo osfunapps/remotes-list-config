@@ -778,7 +778,6 @@ led - led
 
     <!--com.osfunapps.remoteforlguplus.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
-
         <remote country="South_Korea" manufacture="LG" name="sk_lg_u_plus_1" />
         <remote country="South_Korea" manufacture="LG" name="sk_lg_u_plus_2" />
     </remotes>
@@ -1097,7 +1096,6 @@ led - led
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' category='cable'>
-
         <remote country='universal' manufacture='Vivo' name='vv001' />
         <remote country='universal' manufacture='Sherman' name='th001' />
         <remote country='universal' manufacture='AJ' name='th008' />

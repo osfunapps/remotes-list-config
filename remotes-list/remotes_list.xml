@@ -982,6 +982,12 @@ led - led
         <remote name='ac_lg_6' />
         <remote name='ac_lg_7' />
         <remote name='ac_lg_10' />
+        <remote name='ac_lg_11' />
+        <remote name='ac_lg_12' />
+        <remote name='ac_lg_13' />
+        <remote name='ac_lg_14' />
+        <remote name='ac_lg_15' />
+        <remote name='ac_lg_16' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Midea' category='ac' country='worldwide'>
@@ -1032,7 +1038,7 @@ led - led
         <remote name='ac_panasonic_10' />
         <remote name='ac_panasonic_11' />
         <remote name='ac_panasonic_12' />
-
+        <remote name='ac_lg_14' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Samsung' category='ac' country='worldwide'>
@@ -1119,7 +1125,6 @@ led - led
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' manufacture='DD Free Dish' category='cable'>
-
         <remote country='universal' name='dvb_free_dish_1' />
         <remote country='universal' name='dvb_free_dish_2' />
         <remote country='universal' name='dvb_free_dish_3' />
@@ -1130,6 +1135,7 @@ led - led
         <remote country='universal' name='dvb_free_dish_8' />
         <remote country='universal' name='dvb_free_dish_9' />
         <remote country='universal' name='dvb_free_dish_10' />
+        <remote country='universal' name='ca_dvb_11' />
         <remote country='universal' name='dvb_free_dish_12' />
         <remote country='universal' name='dvb_free_dish_13' />
         <remote country='universal' name='dvb_free_dish_14' />
@@ -1141,6 +1147,8 @@ led - led
         <remote country='universal' name='dvb_free_dish_20' />
         <remote country='universal' name='dvb_free_dish_21' />
         <remote country='universal' name='dvb_free_dish_22' />
+        <remote country='universal' name='ca_dvb_23' />
+        <remote country='universal' name='ca_dvb_24' />
     </remotes>
 
     <!-- DVB END-->

@@ -1190,12 +1190,6 @@ led - led
 
 
 
-    <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='' category=''>
-        <remote  name='' />
-    </remotes>
-
-
-
     <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='Hitachi' category='projector'>
         <remote  name='pr_hitachi_1' />
     </remotes>
@@ -1264,11 +1258,11 @@ led - led
         <remote name='ac_beko_1' />
     </remotes>
 
-    <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Sony' category='projector'>
+    <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Sony' category='ac'>
         <remote name='ac_sony_1' />
     </remotes>
 
-    <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Xbox One' category='gam'>
+    <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Xbox One' category='game'>
         <remote name='gam_xbox_one_1' />
     </remotes>
 

@@ -1141,8 +1141,9 @@ led - led
     </remotes>
 
     <!-- DVB END-->
-    <!-- OZVI BUCKET START -->
 
+
+    <!-- OZVI BUCKET START -->
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Malaysia' manufacture='Astro' category='cable'>
         <remote name='ast001' />
         <remote name='ast002' />
@@ -1330,7 +1331,6 @@ led - led
         <remote name='zg001' />
         <remote name='zg002' />
     </remotes>
-
 
     <!-- OZVI BUCKET END -->
 

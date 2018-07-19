@@ -1009,6 +1009,7 @@ led - led
 
     <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='National' category='ac' country='worldwide'>
         <remote name='ac_national_1' />
+        <remote name='ac_panasonic_7' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='O General' category='ac' country='worldwide'>
@@ -1028,9 +1029,16 @@ led - led
         <remote name='ac_panasonic_1' />
         <remote name='ac_pan_2' />
         <remote name='ac_pan_3' />
-        <remote name='ac_pan_13' />
+        <remote name='ac_panasonic_4' />
+        <remote name='ac_panasonic_5' />
+        <remote name='ac_panasonic_6' />
+        <remote name='ac_panasonic_7' />
+        <remote name='ac_panasonic_8' />
+        <remote name='ac_panasonic_9' />
+        <remote name='ac_panasonic_10' />
+        <remote name='ac_panasonic_11' />
+        <remote name='ac_panasonic_12' />
         <remote name='ac_lg_14' />
-
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Samsung' category='ac' country='worldwide'>
@@ -1043,6 +1051,9 @@ led - led
         <remote name='ac_sam_8' />
         <remote name='ac_sam_9' />
         <remote name='ac_samsung_10' />
+        <remote name='ac_samsung_11' />
+        <remote name='ac_samsung_12' />
+        <remote name='ac_samsung_13' />
     </remotes>
 
 
@@ -1143,7 +1154,10 @@ led - led
     <!-- DVB END-->
 
 
-    <!-- OZVI BUCKET START -->
+    <!-- OZVI BUCKET END -->
+
+
+    <!-- ZVI BUCKET START -->
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Malaysia' manufacture='Astro' category='cable'>
         <remote name='ast001' />
         <remote name='ast002' />

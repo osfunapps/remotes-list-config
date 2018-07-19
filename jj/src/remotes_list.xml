@@ -1,0 +1,258 @@
+<configuration version="1">
+
+    <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Aux' category='ac' country='worldwide'>
+        <remote  name='ac_aux_1' />
+    </remotes>
+
+    <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Black And Decker' category='ac' country='worldwide'>
+        <remote  name='ac_black_and_decker_1' />
+    </remotes>
+
+
+    <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Blue Star' category='ac' country='worldwide'>
+        <remote  name='ac_blue_1' />
+        <remote  name='ac_blue_2' />
+        <remote  name='ac_blue_3' />
+        <remote  name='ac_blue_4' />
+        <remote  name='ac_blue_5' />
+        <remote  name='ac_blue_6' />
+        <remote  name='ac_blue_7' />
+        <remote  name='ac_blue_8' />
+        <remote  name='ac_blue_9' />
+        <remote  name='ac_blue_10' />
+        <remote  name='ac_blue_10' />
+        <remote  name='ac_blue_11' />
+    </remotes>
+
+    <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Bosch' category='ac' country='worldwide'>
+        <remote  name='ac_bosch_1' />
+    </remotes>
+
+    <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Boss' category='ac' country='worldwide'>
+        <remote  name='ac_boss_1' />
+    </remotes>
+
+    <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Carrier' category='ac' country='worldwide'>
+        <remote  name='ac_car_1' />
+        <remote  name='ac_car_2' />
+        <remote  name='ac_carrier_3' />
+        <remote  name='ac_carrier_4' />
+        <remote  name='ac_carrier_5' />
+        <remote  name='ac_carrier_6' />
+        <remote  name='ac_car_7' />
+        <remote  name='ac_carrier_8' />
+    </remotes>
+
+    <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Daikin' category='ac' country='worldwide'>
+        <remote  name='ac_daikin_1' />
+        <remote  name='ac_daikin_2' />
+        <remote  name='ac_daikin_3' />
+        <remote  name='ac_dalk_4' />
+        <remote  name='ac_daikin_5' />
+        <remote  name='ac_daikin_6' />
+        <remote  name='ac_dalk_7' />
+        <remote  name='ac_dalk_8' />
+        <remote  name='ac_daikin_9' />
+    </remotes>
+
+    <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Electrolux' category='ac' country='worldwide'>
+        <remote  name='ac_electrolux_1' />
+        <remote  name='ac_electrolux_2' />
+        <remote  name='ac_electrolux_3' />
+        <remote  name='ac_electrolux_4' />
+        <remote  name='ac_electrolux_5' />
+        <remote  name='ac_electrolux_6' />
+        <remote  name='ac_electrolux_8' />
+        <remote  name='ac_electrolux_9' />
+
+    </remotes>
+
+    <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Fujitsu' category='ac' country='worldwide'>
+        <remote  name='ac_fuji_1' />
+    </remotes>
+
+    <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Gree' category='ac' country='worldwide'>
+        <remote  name='ac_gree_1' />
+        <remote  name='ac_gree_2' />
+        <remote  name='ac_gree_3' />
+        <remote  name='ac_gree_5' />
+    </remotes>
+
+    <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Haier' category='ac' country='worldwide'>
+        <remote  name='ac_haier_1' />
+        <remote  name='ac_haier_2' />
+        <remote  name='ac_haier_4' />
+        <remote  name='ac_hai_5' />
+        <remote  name='ac_haier_6' />
+        <remote  name='ac_hai_7' />
+        <remote  name='ac_haier_8' />
+        <remote  name='ac_haier_9' />
+        <remote  name='ac_hai_10' />
+        <remote  name='ac_haier_11' />
+        <remote  name='ac_haier_12' />
+        <remote  name='ac_hai_13' />
+
+    </remotes>
+
+    <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Hisense' category='ac' country='worldwide'>
+        <remote  name='ac_his_1' />
+        <remote  name='ac_hisense_2' />
+        <remote  name='ac_hisense_3' />
+        <remote  name='ac_his_4' />
+    </remotes>
+
+    <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Hitachi' category='ac' country='worldwide'>
+        <remote  name='ac_hit_2' />
+        <remote  name='ac_hitachi_3' />
+        <remote  name='ac_hitachi_4' />
+        <remote  name='ac_hit_5' />
+        <remote  name='ac_hit_6' />
+        <remote  name='ac_hitachi_7' />
+    </remotes>
+
+    <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Joker Multi' category='ac' country='worldwide'>
+        <remote  name='ac_joker_multi_1' />
+    </remotes>
+
+    <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='LG' category='ac' country='worldwide'>
+        <remote  name='ac_lg_1' />
+        <remote  name='ac_lg_2' />
+        <remote  name='ac_lg_3' />
+        <remote  name='ac_lg_4' />
+        <remote  name='ac_lg_5' />
+        <remote  name='ac_lg_6' />
+        <remote  name='ac_lg_7' />
+        <remote  name='ac_lg_10' />
+    </remotes>
+
+    <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Midea' category='ac' country='worldwide'>
+        <remote  name='ac_midea_1' />
+    </remotes>
+
+    <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Mitsubishi' category='ac' country='worldwide'>
+        <remote  name='ac_mit_1' />
+        <remote  name='ac_mit_2' />
+        <remote  name='ac_mit_3' />
+        <remote  name='ac_mit_4' />
+        <remote  name='ac_mit_5' />
+        <remote  name='ac_mit_6' />
+        <remote  name='ac_mitsubishi_7' />
+        <remote  name='ac_mit_8' />
+        <remote  name='ac_mit_9' />
+        <remote  name='ac_mitsubishi_10' />
+    </remotes>
+
+    <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='National' category='ac' country='worldwide'>
+        <remote  name='ac_national_1' />
+    </remotes>
+
+    <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='O General' category='ac' country='worldwide'>
+        <remote  name='ac_ogeneral_1' />
+        <remote  name='ac_ogen_2' />
+        <remote  name='ac_ogeneral_3' />
+    </remotes>
+
+
+    <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Onida' category='ac' country='worldwide'>
+        <remote  name='ac_onida_1' />
+        <remote  name='ac_onida_2' />
+        <remote  name='ac_onida_3' />
+    </remotes>
+
+    <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Panasonic' category='ac' country='worldwide'>
+        <remote  name='ac_panasonic_1' />
+        <remote  name='ac_pan_2' />
+        <remote  name='ac_pan_3' />
+
+    </remotes>
+
+    <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Samsung' category='ac' country='worldwide'>
+        <remote  name='ac_samsung_1' />
+        <remote  name='ac_samsung_2' />
+        <remote  name='ac_samsung_3' />
+        <remote  name='ac_sam_4' />
+        <remote  name='ac_sam_5' />
+        <remote  name='ac_sam_6' />
+        <remote  name='ac_sam_8' />
+        <remote  name='ac_sam_9' />
+        <remote  name='ac_samsung_10' />
+    </remotes>
+
+
+    <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Sanyo' category='ac' country='worldwide'>
+        <remote  name='ac_san_1' />
+        <remote  name='ac_sanyo_2' />
+        <remote  name='ac_sanyo_3' />
+        <remote  name='ac_san_4' />
+        <remote  name='ac_san_5' />
+
+    </remotes>
+
+    <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Sharp' category='ac' country='worldwide'>
+        <remote  name='ac_sharp_1' />
+        <remote  name='ac_sha_2' />
+        <remote  name='ac_sharp_3' />
+        <remote  name='ac_sharp_4' />
+        <remote  name='ac_sha_5' />
+        <remote  name='ac_sha_6' />
+        <remote  name='ac_sha_8' />
+        <remote  name='ac_sha_10' />
+        <remote  name='ac_sharp_9' />
+
+
+    </remotes>
+
+    <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Toshiba' category='ac' country='worldwide'>
+        <remote  name='ac_toshiba_1' />
+        <remote  name='ac_tos_2' />
+        <remote  name='ac_toshiba_3' />
+        <remote  name='ac_toshiba_4' />
+    </remotes>
+
+    <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Vestel' category='ac' country='worldwide'>
+        <remote  name='ac_vestel_1' />
+        <remote  name='ac_vestel_2' />
+    </remotes>
+
+    <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Voltas' category='ac' country='worldwide'>
+        <remote  name='ac_voltas_1' />
+
+    </remotes>
+
+    <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Whirlpool' category='ac' country='worldwide'>
+        <remote  name='ac_whirlpool_1' />
+        <remote  name='ac_whirlpool_2' />
+        <remote  name='ac_whirlpool_3' />
+        <remote  name='ac_whirlpool_4' />
+        <remote  name='ac_whirlpool_5' />
+
+    </remotes>
+
+
+
+    <!--static data start-->
+    <tvs storage='weedle_remotes_bucket' path='tvs'>
+        <codes type='xml' name='tv_remote_codes' />
+    </tvs>
+
+    <assets storage='weedle_remotes_bucket' path='assets'>
+        <asset name='tv.png' />
+        <asset name='sound_bar.png' />
+        <asset name='cable.png' />
+        <asset name='ac.png' />
+    </assets>
+
+    <values storage='weedle_remotes_bucket' path='strings'>
+        <strings locale='en' name='strings.en' />
+    </values>
+
+    <remotes storage='weedle_remotes_bucket' path='remotes'>
+        <remote name='blank_remote' />
+    </remotes>
+    <!--static data end-->
+
+
+</configuration>
+
+
+

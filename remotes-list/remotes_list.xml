@@ -1237,11 +1237,81 @@ led - led
 
 
 
+    <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='InFocus' category='projector'>
+        <remote name='pr_in_focus_1' />
+    </remotes>
 
+    <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Acer' category='projector'>
+        <remote name='pr_acer_1' />
+        <remote name='pr_acer_2' />
+    </remotes>
+
+    <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Emerson' category='tv'>
+        <remote name='tv_emerson_1' />
+    </remotes>
+
+    <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Freesat' category='cable'>
+        <remote name='ca_free_sat_1' />
+        <remote name='ca_free_sat_2' />
+    </remotes>
+
+    <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Optoma' category='projector'>
+        <remote name='pr_optoma_1' />
+        <remote name='pr_optoma_2' />
+    </remotes>
+
+    <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Huawei' category='cable'>
+        <remote name='ca_huawei_1' />
+        <remote name='ca_huawei_2' />
+    </remotes>
+
+    <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Beko' category='ac'>
+        <remote name='ac_beko_1' />
+    </remotes>
+
+    <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Sony' category='projector'>
+        <remote name='ac_sony_1' />
+    </remotes>
+
+    <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Xbox One' category='gam'>
+        <remote name='gam_xbox_one_1' />
+    </remotes>
+
+    <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Google Fiber' category='cable'>
+        <remote name='ca_google_fiber_1' />
+    </remotes>
+
+    <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Channel Master' category='dvr'>
+        <remote name='dvr_channel_master_1' />
+    </remotes>
+
+    <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='NEC' category='projector'>
+        <remote name='pr_nec_1' />
+    </remotes>
+
+    <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='BenQ' category='projector'>
+        <remote name='pr_benq_1' />
+        <remote name='pr_benq_2' />
+    </remotes>
+
+    <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Casio' category='projector'>
+        <remote name='pr_casio_1' />
+    </remotes>
+
+    <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Apple' category='tv_box'>
+        <remote name='tb_apple_1' />
+    </remotes>
+
+    <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Goodman' category='tv'>
+        <remote name='tv_goodman_1' />
+    </remotes>
+
+
+
+    <!-- OZVI BUCKET END -->
 
 
     <!-- ZVI BUCKET START -->
-
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Malaysia' manufacture='Astro' category='cable'>
         <remote name='ast001' />
         <remote name='ast002' />
@@ -1429,7 +1499,6 @@ led - led
         <remote name='zg001' />
         <remote name='zg002' />
     </remotes>
-
 
     <!-- OZVI BUCKET END -->
 

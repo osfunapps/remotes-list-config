@@ -1,5 +1,18 @@
 <configuration version="1">
 
+    <!--
+    ac - air conditioner
+    ca - cable
+    tv - tv
+    tb - tv box
+    gam - game
+    ar - audio receiver
+    sb - sound bar
+    pr - projector
+    dvr - dvr
+    led - led
+    -->
+
     <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Aux' category='ac' country='worldwide'>
         <remote  name='ac_aux_1' />
     </remotes>
@@ -162,8 +175,8 @@
         <remote  name='ac_panasonic_1' />
         <remote  name='ac_pan_2' />
         <remote  name='ac_pan_3' />
-
     </remotes>
+
 
     <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Samsung' category='ac' country='worldwide'>
         <remote  name='ac_samsung_1' />

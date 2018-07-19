@@ -1268,7 +1268,7 @@ led - led
         <remote name='ac_sony_1' />
     </remotes>
 
-    <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Xbox One' category='gam'>
+    <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Xbox One' category='game'>
         <remote name='gam_xbox_one_1' />
     </remotes>
 

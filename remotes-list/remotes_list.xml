@@ -1172,7 +1172,7 @@ led - led
 
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='LED' category='led'>
-        <remote  name='led_1' />
+        <!--<remote  name='led_1' />-->
         <remote  name='led_2' />
     </remotes>
 
@@ -1249,9 +1249,9 @@ led - led
         <remote name='pr_optoma_2' />
     </remotes>
 
-    <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Huawei' category='cable'>
-        <remote name='ca_huawei_1' />
-        <remote name='ca_huawei_2' />
+    <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Huawei' category='tv_box'>
+        <remote name='tb_huawei_1' />
+        <remote name='tb_huawei_2' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Beko' category='ac'>

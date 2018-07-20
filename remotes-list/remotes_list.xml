@@ -1,14 +1,15 @@
 <!--
 ac - air conditioner
-ca - cable
-tv - tv
-tb - tv box
-gam - game
-ar - audio receiver
-sb - sound bar
-pr - projector
-dvr - dvr
-led - led
+tv
+remote name: ca, category name: cable
+remote name: pr, category name: projector
+remote name: sb, category name: sound_bar
+
+dvr
+led
+remote name: tb, category name: tv_box
+remote name: gam, category name: game
+remote name: ar, category name: audio_receiver
 -->
 <configuration version="1">
 

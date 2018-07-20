@@ -1220,7 +1220,7 @@ led - led
 
 
 
-    <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='York' category='ac'>
+    <remotes storage='weedle_remotes_bucket' path='ac_remotes' country='universal' manufacture='York' category='ac'>
         <remote  name='ac_york_1' />
     </remotes>
 
@@ -1254,7 +1254,7 @@ led - led
         <remote name='tb_huawei_2' />
     </remotes>
 
-    <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Beko' category='ac'>
+    <remotes storage='weedle_remotes_bucket' path='ac_remotes' country='Universal' manufacture='Beko' category='ac'>
         <remote name='ac_beko_1' />
     </remotes>
 

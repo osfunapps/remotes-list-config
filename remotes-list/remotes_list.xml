@@ -1259,7 +1259,7 @@ remote name: ar, category name: audio_receiver
 
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='LED' category='led'>
-        <remote  name='led_1' />
+        <!--<remote  name='led_1' />-->
         <remote  name='led_2' />
     </remotes>
 
@@ -1307,7 +1307,7 @@ remote name: ar, category name: audio_receiver
 
 
 
-    <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='York' category='ac'>
+    <remotes storage='weedle_remotes_bucket' path='ac_remotes' country='universal' manufacture='York' category='ac'>
         <remote  name='ac_york_1' />
     </remotes>
 
@@ -1336,12 +1336,12 @@ remote name: ar, category name: audio_receiver
         <remote name='pr_optoma_2' />
     </remotes>
 
-    <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Huawei' category='cable'>
-        <remote name='ca_huawei_1' />
-        <remote name='ca_huawei_2' />
+    <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Huawei' category='tv_box'>
+        <remote name='tb_huawei_1' />
+        <remote name='tb_huawei_2' />
     </remotes>
 
-    <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Beko' category='ac'>
+    <remotes storage='weedle_remotes_bucket' path='ac_remotes' country='Universal' manufacture='Beko' category='ac'>
         <remote name='ac_beko_1' />
     </remotes>
 

@@ -1,4 +1,5 @@
 <!--
+<<<<<<< HEAD
 ac - ac
 ca - cable
 tv - tv
@@ -9,6 +10,19 @@ sb - sound_bar
 pr - projector
 dvr - dvr
 led - led
+=======
+ac - air conditioner
+tv
+remote name: ca, category name: cable
+remote name: pr, category name: projector
+remote name: sb, category name: sound_bar
+
+dvr
+led
+remote name: tb, category name: tv_box
+remote name: gam, category name: game
+remote name: ar, category name: audio_receiver
+>>>>>>> c8bb754d63286d801ed40efbda7d0b5d2703d256
 -->
 <configuration version="1">
 
@@ -33,6 +47,92 @@ led - led
 
 
     <!-- OSFUNAPPS BUCKET START -->
+
+    <!-- new remotes (18.7.18) -->
+    <remotes storage='weedle_remotes_bucket' path='remotes'>
+
+        <remote name='ca_airtel_3' country='Universal' manufacture='airtel' category='cable' />
+
+        <remote name='ca_gtpl_12' country='Universal' manufacture='gtpl' category='cable' />
+        <remote name='ca_gtpl_13' country='Universal' manufacture='gtpl' category='cable' />
+        <remote name='ca_gtpl_15' country='Universal' manufacture='gtpl' category='cable' />
+
+        <remote name='ca_hathway_7' country='Universal' manufacture='hathway' category='cable' />
+        <remote name='ca_hathway_8' country='Universal' manufacture='hathway' category='cable' />
+        <remote name='ca_hathway_9' country='Universal' manufacture='hathway' category='cable' />
+
+        <remote name='ca_in_digital_11' country='Universal' manufacture='in digital' category='cable' />
+        <remote name='ca_in_digital_12' country='Universal' manufacture='in digital' category='cable' />
+        <remote name='ca_in_digital_13' country='Universal' manufacture='in digital' category='cable' />
+        <remote name='ca_in_digital_14' country='Universal' manufacture='in digital' category='cable' />
+        <remote name='ca_in_digital_15' country='Universal' manufacture='in digital' category='cable' />
+
+        <remote name='ca_nxt_digital_3' country='Universal' manufacture='nxt digital' category='cable' />
+
+        <remote name='ca_orange_4' country='Universal' manufacture='orange' category='cable' />
+
+        <remote name='ca_siti_7' country='Universal' manufacture='siti' category='cable' />
+
+        <remote name='ca_solid_2' country='Universal' manufacture='solid' category='cable' />
+        <remote name='ca_solid_3' country='Universal' manufacture='solid' category='cable' />
+        <remote name='ca_solid_4' country='Universal' manufacture='solid' category='cable' />
+
+        <remote name='ca_tatasky_4' country='Universal' manufacture='tatasky' category='cable' />
+        <remote name='ca_tatasky_5' country='Universal' manufacture='tatasky' category='cable' />
+        <remote name='ca_tatasky_6' country='Universal' manufacture='tatasky' category='cable' />
+        <remote name='ca_tatasky_7' country='Universal' manufacture='tatasky' category='cable' />
+        <remote name='ca_tatasky_8' country='Universal' manufacture='tatasky' category='cable' />
+
+        <remote name='ca_videocon_5' country='Universal' manufacture='videocon' category='cable' />
+
+        <remote name='ca_zenga_1' country='Universal' manufacture='zenga' category='cable' />
+        <remote name='ca_zenga_2' country='Universal' manufacture='zenga' category='cable' />
+        <remote name='ca_zenga_3' country='Universal' manufacture='zenga' category='cable' />
+        <remote name='ca_zenga_5' country='Universal' manufacture='zenga' category='cable' />
+        <remote name='ca_zenga_6' country='Universal' manufacture='zenga' category='cable' />
+        <remote name='ca_zenga_7m' country='Universal' manufacture='zenga' category='cable' />
+        <remote name='ca_zenga_8' country='Universal' manufacture='zenga' category='cable' />
+        <remote name='ca_zenga_9' country='Universal' manufacture='zenga' category='cable' />
+        <remote name='ca_zenga_10' country='Universal' manufacture='zenga' category='cable' />
+
+        <remote name='sb_samsung_15' country='Universal' manufacture='samsung' category='sound_bar' />
+
+        <remote name='sb_vizio_6' country='Universal' manufacture='vizio' category='sound_bar' />
+        <remote name='sb_vizio_7' country='Universal' manufacture='vizio' category='sound_bar' />
+
+        <remote name='tv_panasonic_7' country='Universal' manufacture='panasonic' category='tv' />
+        <remote name='tv_panasonic_8' country='Universal' manufacture='panasonic' category='tv' />
+        <remote name='tv_panasonic_9' country='Universal' manufacture='panasonic' category='tv' />
+        <remote name='tv_panasonic_10' country='Universal' manufacture='panasonic' category='tv' />
+        <remote name='tv_panasonic_11' country='Universal' manufacture='panasonic' category='tv' />
+        <remote name='tv_panasonic_12' country='Universal' manufacture='panasonic' category='tv' />
+
+        <remote name='tv_samsung_7' country='Universal' manufacture='samsung' category='tv' />
+        <remote name='tv_samsung_8' country='Universal' manufacture='samsung' category='tv' />
+        <remote name='tv_samsung_9' country='Universal' manufacture='samsung' category='tv' />
+        <remote name='tv_samsung_10' country='Universal' manufacture='samsung' category='tv' />
+        <remote name='tv_samsung_11' country='Universal' manufacture='samsung' category='tv' />
+        <remote name='tv_samsung_12' country='Universal' manufacture='samsung' category='tv' />
+        <remote name='tv_samsung_13' country='Universal' manufacture='samsung' category='tv' />
+        <remote name='tv_samsung_14' country='Universal' manufacture='samsung' category='tv' />
+        <remote name='tv_samsung_16' country='Universal' manufacture='samsung' category='tv' />
+        <remote name='tv_samsung_17' country='Universal' manufacture='samsung' category='tv' />
+
+        <remote name='tv_toshiba_6' country='Universal' manufacture='toshiba' category='tv' />
+        <remote name='tv_toshiba_7' country='Universal' manufacture='toshiba' category='tv' />
+        <remote name='tv_toshiba_8' country='Universal' manufacture='toshiba' category='tv' />
+        <remote name='tv_toshiba_9' country='Universal' manufacture='toshiba' category='tv' />
+        <remote name='tv_toshiba_10' country='Universal' manufacture='toshiba' category='tv' />
+        <remote name='tv_toshiba_11' country='Universal' manufacture='toshiba' category='tv' />
+        <remote name='tv_toshiba_12' country='Universal' manufacture='toshiba' category='tv' />
+        <remote name='tv_toshiba_13' country='Universal' manufacture='toshiba' category='tv' />
+
+        <remote name='tv_videocon_6' country='Universal' manufacture='videocon' category='tv' />
+        <remote name='tv_videocon_7' country='Universal' manufacture='videocon' category='tv' />
+        <remote name='tv_videocon_8' country='Universal' manufacture='videocon' category='tv' />
+
+    </remotes>
+
 
     <!--com.osfunapps.remotefordstv.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">

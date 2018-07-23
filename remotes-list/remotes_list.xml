@@ -1,11 +1,11 @@
 <!--
-ac - air conditioner
+ac - ac
 ca - cable
 tv - tv
-tb - tv box
+tb - tv_box
 gam - game
-ar - audio receiver
-sb - sound bar
+ar - audio_receiver
+sb - sound_bar
 pr - projector
 dvr - dvr
 led - led
@@ -973,22 +973,6 @@ led - led
         <remote name='ac_joker_multi_1' />
     </remotes>
 
-    <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='LG' category='ac' country='worldwide'>
-        <remote name='ac_lg_1' />
-        <remote name='ac_lg_2' />
-        <remote name='ac_lg_3' />
-        <remote name='ac_lg_4' />
-        <remote name='ac_lg_5' />
-        <remote name='ac_lg_6' />
-        <remote name='ac_lg_7' />
-        <remote name='ac_lg_10' />
-        <remote name='ac_lg_11' />
-        <remote name='ac_lg_12' />
-        <remote name='ac_lg_13' />
-        <remote name='ac_lg_14' />
-        <remote name='ac_lg_15' />
-        <remote name='ac_lg_16' />
-    </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Midea' category='ac' country='worldwide'>
         <remote name='ac_midea_1' />
@@ -1056,6 +1040,22 @@ led - led
         <remote name='ac_samsung_13' />
     </remotes>
 
+    <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='LG' category='ac' country='worldwide'>
+        <remote name='ac_lg_1' />
+        <remote name='ac_lg_2' />
+        <remote name='ac_lg_3' />
+        <remote name='ac_lg_4' />
+        <remote name='ac_lg_5' />
+        <remote name='ac_lg_6' />
+        <remote name='ac_lg_7' />
+        <remote name='ac_lg_10' />
+        <remote name='ac_lg_11' />
+        <remote name='ac_lg_12' />
+        <remote name='ac_lg_13' />
+        <remote name='ac_lg_14' />
+        <remote name='ac_lg_15' />
+        <remote name='ac_lg_16' />
+    </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Sanyo' category='ac' country='worldwide'>
         <remote name='ac_san_1' />
@@ -1196,8 +1196,8 @@ led - led
 
 
 
-    <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='Tivo' category='dvr'>
-        <remote  name='dvr_tivo_1' />
+    <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='Tivo' category='cable'>
+        <remote  name='ca_tivo_1' />
     </remotes>
 
 

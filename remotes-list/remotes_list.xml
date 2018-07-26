@@ -25,8 +25,6 @@ remote name: ar, category name: audio_receiver
 >>>>>>> c8bb754d63286d801ed40efbda7d0b5d2703d256
 -->
 <configuration version="1">
-
-
     <tvs path="tvs" storage="weedle_remotes_bucket">
         <codes name="tv_remote_codes" type="xml" />
     </tvs>

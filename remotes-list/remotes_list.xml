@@ -1207,48 +1207,48 @@ remote name: ar, category name: audio_receiver
     </remotes>
 
     <!-- DVB START-->
-    <remotes storage='weedle_remotes_bucket' path='remotes' manufacture='DD Direct Dth' category='cable'>
+    <remotes storage='weedle_remotes_bucket' country='universal' path='remotes' manufacture='DD Direct Dth' category='cable'>
 
-        <remote country='universal' name='dvb_direct_dth_1' />
-        <remote country='universal' name='dvb_direct_dth_2' />
-        <remote country='universal' name='dvb_direct_dth_3' />
+        <remote name='dvb_direct_dth_1' />
+        <remote name='dvb_direct_dth_2' />
+        <remote name='dvb_direct_dth_3' />
     </remotes>
 
-    <remotes storage='weedle_remotes_bucket' path='remotes' category='cable'>
-        <remote country='universal' manufacture='Vivo' name='vv001' />
-        <remote country='universal' manufacture='Sherman' name='th001' />
-        <remote country='universal' manufacture='AJ' name='th008' />
-        <remote country='universal' manufacture='SAMART' name='th011' />
-        <remote country='universal' manufacture='Haier' name='th014' />
-        <remote country='universal' manufacture='Aconatic' name='th018' />
-        <remote country='universal' manufacture='NANO' name='th020' />
+    <remotes storage='weedle_remotes_bucket' country='universal' path='remotes' category='cable'>
+        <remote manufacture='Vivo' name='vv001' />
+        <remote manufacture='Sherman' name='th001' />
+        <remote manufacture='AJ' name='th008' />
+        <remote manufacture='SAMART' name='th011' />
+        <remote manufacture='Haier' name='th014' />
+        <remote manufacture='Aconatic' name='th018' />
+        <remote manufacture='NANO' name='th020' />
     </remotes>
 
-    <remotes storage='weedle_remotes_bucket' path='remotes' manufacture='DD Free Dish' category='cable'>
-        <remote country='universal' name='dvb_free_dish_1' />
-        <remote country='universal' name='dvb_free_dish_2' />
-        <remote country='universal' name='dvb_free_dish_3' />
-        <remote country='universal' name='dvb_free_dish_4' />
-        <remote country='universal' name='dvb_free_dish_5' />
-        <remote country='universal' name='dvb_free_dish_6' />
-        <remote country='universal' name='dvb_free_dish_7' />
-        <remote country='universal' name='dvb_free_dish_8' />
-        <remote country='universal' name='dvb_free_dish_9' />
-        <remote country='universal' name='dvb_free_dish_10' />
-        <remote country='universal' name='ca_dvb_11' />
-        <remote country='universal' name='dvb_free_dish_12' />
-        <remote country='universal' name='dvb_free_dish_13' />
-        <remote country='universal' name='dvb_free_dish_14' />
-        <remote country='universal' name='dvb_free_dish_15' />
-        <remote country='universal' name='dvb_free_dish_16' />
-        <remote country='universal' name='dvb_free_dish_17' />
-        <remote country='universal' name='dvb_free_dish_18' />
-        <remote country='universal' name='dvb_free_dish_19' />
-        <remote country='universal' name='dvb_free_dish_20' />
-        <remote country='universal' name='dvb_free_dish_21' />
-        <remote country='universal' name='dvb_free_dish_22' />
-        <remote country='universal' name='ca_dvb_23' />
-        <remote country='universal' name='ca_dvb_24' />
+    <remotes storage='weedle_remotes_bucket' country='universal' path='remotes' manufacture='DD Free Dish' category='cable'>
+        <remote name='dvb_free_dish_1' />
+        <remote name='dvb_free_dish_2' />
+        <remote name='dvb_free_dish_3' />
+        <remote name='dvb_free_dish_4' />
+        <remote name='dvb_free_dish_5' />
+        <remote name='dvb_free_dish_6' />
+        <remote name='dvb_free_dish_7' />
+        <remote name='dvb_free_dish_8' />
+        <remote name='dvb_free_dish_9' />
+        <remote name='dvb_free_dish_10' />
+        <remote name='ca_dvb_11' />
+        <remote name='dvb_free_dish_12' />
+        <remote name='dvb_free_dish_13' />
+        <remote name='dvb_free_dish_14' />
+        <remote name='dvb_free_dish_15' />
+        <remote name='dvb_free_dish_16' />
+        <remote name='dvb_free_dish_17' />
+        <remote name='dvb_free_dish_18' />
+        <remote name='dvb_free_dish_19' />
+        <remote name='dvb_free_dish_20' />
+        <remote name='dvb_free_dish_21' />
+        <remote name='dvb_free_dish_22' />
+        <remote name='ca_dvb_23' />
+        <remote name='ca_dvb_24' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='ViewSonic' category='projector'>
@@ -1354,9 +1354,9 @@ remote name: ar, category name: audio_receiver
         <remote name='tb_huawei_2' />
     </remotes>
 
-    <remotes storage='weedle_remotes_bucket' path='ac_remotes' country='Universal' manufacture='Beko' category='ac'>
-        <remote name='ac_beko_1' />
-    </remotes>
+        <remotes storage='weedle_remotes_bucket' path='ac_remotes' country='Universal' manufacture='Beko' category='ac'>
+            <remote name='ac_beko_1' />
+        </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Sony' category='projector'>
         <remote name='pr_sony_1' />

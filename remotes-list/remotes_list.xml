@@ -1592,6 +1592,19 @@ remote name: ar, category name: audio_receiver
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Goodman' category='tv'>
         <remote name='tv_goodman_1' />
     </remotes>
+
+    <remotes storage='amplez_bucket' country='universal' path='remotes' manufacture='Sky Brazil' category='cable'>
+        <remote name='sk001' />
+        <remote name='sk003' />
+
+    </remotes>
+
+    <remotes storage='amplez_bucket' country='universal' path='remotes' manufacture='Philips' category='tv'>
+        <remote name='ph001' />
+
+    </remotes>
+
+
     <!-- OZVI BUCKET END -->
 
 

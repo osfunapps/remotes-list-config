@@ -1593,6 +1593,8 @@ remote name: ar, category name: audio_receiver
         <remote name='tv_goodman_1' />
     </remotes>
 
+
+    <!--added 24.7 zvi todo need to add to universals-->
     <remotes storage='amplez_bucket' country='universal' path='remotes' manufacture='Sky Brazil' category='cable'>
         <remote name='sk001' />
         <remote name='sk003' />

@@ -1274,11 +1274,15 @@ remote name: ar, category name: audio_receiver
         <remote  name='hyp001' />
     </remotes>
 
-    <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='ATT' category='cable'>
+    <remotes storage='amplez_bucket' path='remotes' country='Worldwide' manufacture='ATT' category='cable'>
 
+        <remote name='dt001' />
+        <remote name='dt002' />
+        <remote name='dt003' />
         <remote name='at001' />
-
+        <remote name='at002' />
     </remotes>
+
 
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Finland' manufacture='Canal Digital' category='cable'>
@@ -1301,10 +1305,15 @@ remote name: ar, category name: audio_receiver
     </remotes>
 
 
-    <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='DirecTV' category='cable'>
+    <remotes storage='amplez_bucket' path='remotes' country='Worldwide' manufacture='DirecTV' category='cable'>
+
         <remote name='dt001' />
         <remote name='dt002' />
         <remote name='dt003' />
+        <remote name='at001' />
+        <remote name='at002' />
+
+
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='Dish Network' category='cable'>
@@ -1328,9 +1337,12 @@ remote name: ar, category name: audio_receiver
         <remote name='gvt001' />
     </remotes>
 
-    <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='Hisense' category='tv'>
+    <remotes storage='amplez_bucket' country='universal' path='remotes' manufacture='Hisense' category='tv'>
+
         <remote  name='hi001' />
+        <remote  name='hi002' />
     </remotes>
+
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Indonesia' manufacture='IndoVision' category='cable'>
         <remote  name='inv001' />
@@ -1374,11 +1386,11 @@ remote name: ar, category name: audio_receiver
         <remote name='rk001' />
     </remotes>
 
-
-    <remotes storage='weedle_remotes_bucket' path='remotes' country='universal'  manufacture='Sharp' category='tv'>
-        <remote name='sh002' />
-        <remote name='sh003' />
-        <remote name='sh006' />
+    <remotes country='universal' storage='amplez_bucket' path='remotes' manufacture='Sharp' category='tv'>
+        <remote  name='sh001' />
+        <remote  name='sh002' />
+        <remote  name='sh003' />
+        <remote  name='sh006' />
     </remotes>
 
 
@@ -1405,9 +1417,11 @@ remote name: ar, category name: audio_receiver
     </remotes>
 
 
-    <remotes storage='weedle_remotes_bucket' path='remotes' country='USA' manufacture='Time Warner' category='cable'>
-        <remote name='tw001' />
-        <remote name='tw002' />
+    <remotes country='USA' storage='amplez_bucket' path='remotes' manufacture='Spectrum' category='cable'>
+
+        <remote  name='tw001' />
+        <remote  name='tw002' />
+        <remote  name='spec001' />
     </remotes>
 
 

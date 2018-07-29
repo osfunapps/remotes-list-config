@@ -334,6 +334,7 @@ remote name: ar, category name: audio_receiver
         <remote country='Universal' manufacture='Toshiba' name='tv_toshiba_11' />
         <remote country='Universal' manufacture='Toshiba' name='tv_toshiba_12' />
         <remote country='Universal' manufacture='Toshiba' name='tv_toshiba_13' />
+        <remote country='Universal' manufacture='Toshiba' name='tv_toshiba_14' />
 
     </remotes>
 
@@ -598,6 +599,7 @@ remote name: ar, category name: audio_receiver
         <remote country='Universal' manufacture='Samsung' name='tv_samsung_14' />
         <remote country='Universal' manufacture='Samsung' name='tv_samsung_16' />
         <remote country='Universal' manufacture='Samsung' name='tv_samsung_17' />
+        <remote country='Universal' manufacture='Samsung' name='tv_samsung_18' />
 
     </remotes>
 

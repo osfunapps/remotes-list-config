@@ -45,7 +45,7 @@ remote name: ar, category name: audio_receiver
     </values>
 
     <remotes path="remotes" storage="weedle_remotes_bucket">
-        <remote name="blank_remote" />
+        <DoNoTeDiTaNyMoRe name="blank_remote" />
     </remotes>
 
 
@@ -54,44 +54,44 @@ remote name: ar, category name: audio_receiver
     <!--com.osfunapps.remotefordstv.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Nigeria" manufacture="DSTV" name="nig_dstv_1" />
-        <remote country="Nigeria" manufacture="DSTV" name="nig_dstv_2" />
-        <remote country="Nigeria" manufacture="DSTV" name="nig_dstv_3" />
-        <remote country="Nigeria" manufacture="DSTV" name="nig_dstv_4" />
+        <DoNoTeDiTaNyMoRe country="Nigeria" manufacture="DSTV" name="nig_dstv_1" />
+        <DoNoTeDiTaNyMoRe country="Nigeria" manufacture="DSTV" name="nig_dstv_2" />
+        <DoNoTeDiTaNyMoRe country="Nigeria" manufacture="DSTV" name="nig_dstv_3" />
+        <DoNoTeDiTaNyMoRe country="Nigeria" manufacture="DSTV" name="nig_dstv_4" />
     </remotes>
 
 
     <!--com.osfunapps.remotefortelesystem.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucketket">
 
-        <remote country="Italy" manufacture="Telesystem" name="it_telesystem_1" />
+        <DoNoTeDiTaNyMoRe country="Italy" manufacture="Telesystem" name="it_telesystem_1" />
     </remotes>
 
 
     <!--com.osfunapps.remoteforbtv.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="South_Korea" manufacture="B_TV" name="sk_b_tv_1" />
-        <remote country="South_Korea" manufacture="B_TV" name="sk_b_tv_2" />
-        <remote country="South_Korea" manufacture="B_TV" name="sk_b_tv_3" />
-        <remote country="South_Korea" manufacture="B_TV" name="sk_b_tv_4" />
+        <DoNoTeDiTaNyMoRe country="South_Korea" manufacture="B_TV" name="sk_b_tv_1" />
+        <DoNoTeDiTaNyMoRe country="South_Korea" manufacture="B_TV" name="sk_b_tv_2" />
+        <DoNoTeDiTaNyMoRe country="South_Korea" manufacture="B_TV" name="sk_b_tv_3" />
+        <DoNoTeDiTaNyMoRe country="South_Korea" manufacture="B_TV" name="sk_b_tv_4" />
     </remotes>
 
 
     <!--com.osfunapps.remoteForFree.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="France" manufacture="Free" name="fr_free_1" />
-        <remote country="France" manufacture="Free" name="fr_free_3" />
-        <remote country="France" manufacture="Free" name="fr_free_4" />
+        <DoNoTeDiTaNyMoRe country="France" manufacture="Free" name="fr_free_1" />
+        <DoNoTeDiTaNyMoRe country="France" manufacture="Free" name="fr_free_3" />
+        <DoNoTeDiTaNyMoRe country="France" manufacture="Free" name="fr_free_4" />
     </remotes>
 
 
     <!--com.osfunapps.RemoteforFetchTV.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Australia" manufacture="Fetch_TV" name="aus_fetch_tv_1" />
-        <remote country="Australia" manufacture="Fetch_TV" name="aus_fetch_tv_2" />
+        <DoNoTeDiTaNyMoRe country="Australia" manufacture="Fetch_TV" name="aus_fetch_tv_1" />
+        <DoNoTeDiTaNyMoRe country="Australia" manufacture="Fetch_TV" name="aus_fetch_tv_2" />
 
     </remotes>
 
@@ -99,23 +99,23 @@ remote name: ar, category name: audio_receiver
     <!--com.osfunapps.RemoteforKabelDeutschland.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Germany" manufacture="Kabel_Deutschland" name="ger_vodafone_kabel_deutschland_1" />
-        <remote country="Germany" manufacture="Kabel_Deutschland" name="ger_vodafone_kabel_deutschland_2" />
+        <DoNoTeDiTaNyMoRe country="Germany" manufacture="Kabel_Deutschland" name="ger_vodafone_kabel_deutschland_1" />
+        <DoNoTeDiTaNyMoRe country="Germany" manufacture="Kabel_Deutschland" name="ger_vodafone_kabel_deutschland_2" />
     </remotes>
 
 
     <!--com.osfunapps.remoteForSFR.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="France" manufacture="SFR" name="fr_sfr_1" />
-        <remote country="France" manufacture="SFR" name="fr_sfr_2" />
+        <DoNoTeDiTaNyMoRe country="France" manufacture="SFR" name="fr_sfr_1" />
+        <DoNoTeDiTaNyMoRe country="France" manufacture="SFR" name="fr_sfr_2" />
     </remotes>
 
 
     <!--com.osfunapps.remoteforwintal.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Australia" manufacture="Wintal" name="aus_wintal_1" />
+        <DoNoTeDiTaNyMoRe country="Australia" manufacture="Wintal" name="aus_wintal_1" />
 
     </remotes>
 
@@ -123,17 +123,17 @@ remote name: ar, category name: audio_receiver
     <!--com.osfunapps.remoteforhathway.xml-->
     <remotes storage='osapps_bucket' path='remotes' category='cable'>
 
-        <remote country='India' manufacture='Hathway' name='ind_hathway_1' />
-        <remote country='India' manufacture='Hathway' name='ind_hathway_2' />
-        <remote country='India' manufacture='Hathway' name='ind_hathway_3' />
-        <remote country='India' manufacture='Hathway' name='ind_hathway_4' />
-        <remote country='India' manufacture='Hathway' name='ind_hathway_5' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Hathway' name='ind_hathway_1' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Hathway' name='ind_hathway_2' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Hathway' name='ind_hathway_3' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Hathway' name='ind_hathway_4' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Hathway' name='ind_hathway_5' />
 
-        <remote country='India' manufacture='Hathway' name='ca_hathway_7' />
-        <remote country='India' manufacture='Hathway' name='ca_hathway_8' />
-        <remote country='India' manufacture='Hathway' name='ca_hathway_9' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Hathway' name='ca_hathway_7' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Hathway' name='ca_hathway_8' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Hathway' name='ca_hathway_9' />
 
-        <remote country='India' manufacture='Hathway' name='ind_gtpl_3' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Hathway' name='ind_gtpl_3' />
 
     </remotes>
 
@@ -141,52 +141,52 @@ remote name: ar, category name: audio_receiver
     <!--com.osfunapps.remoteforviasatnigeria.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Nigeria" manufacture="Viasat" name="nig_viasat_1" />
+        <DoNoTeDiTaNyMoRe country="Nigeria" manufacture="Viasat" name="nig_viasat_1" />
     </remotes>
 
 
     <!--com.osfunapps.remoteforcableonda.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Panama" manufacture="Cable_Onda" name="pana_cable_onda_tigo_1" />
-        <remote country="Panama" manufacture="Cable_Onda" name="pana_cable_onda_tigo_2" />
-        <remote country="Panama" manufacture="Cable_Onda" name="pana_cable_onda_tigo_3" />
-        <remote country="Panama" manufacture="Cable_Onda" name="pana_cable_onda_tigo_4" />
+        <DoNoTeDiTaNyMoRe country="Panama" manufacture="Cable_Onda" name="pana_cable_onda_tigo_1" />
+        <DoNoTeDiTaNyMoRe country="Panama" manufacture="Cable_Onda" name="pana_cable_onda_tigo_2" />
+        <DoNoTeDiTaNyMoRe country="Panama" manufacture="Cable_Onda" name="pana_cable_onda_tigo_3" />
+        <DoNoTeDiTaNyMoRe country="Panama" manufacture="Cable_Onda" name="pana_cable_onda_tigo_4" />
     </remotes>
 
 
     <!--com.osfunapps.remoteforrca.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Universal" manufacture="RCA" name="rca_1" />
-        <remote country="Universal" manufacture="RCA" name="rca_2" />
-        <remote country="Universal" manufacture="RCA" name="rca_3" />
-        <remote country="Universal" manufacture="RCA" name="rca_4" />
-        <remote country="Universal" manufacture="RCA" name="rca_5" />
-        <remote country="Universal" manufacture="RCA" name="rca_6" />
-        <remote country="Universal" manufacture="RCA" name="rca_7" />
-        <remote country="Universal" manufacture="RCA" name="rca_8" />
+        <DoNoTeDiTaNyMoRe country="Universal" manufacture="RCA" name="rca_1" />
+        <DoNoTeDiTaNyMoRe country="Universal" manufacture="RCA" name="rca_2" />
+        <DoNoTeDiTaNyMoRe country="Universal" manufacture="RCA" name="rca_3" />
+        <DoNoTeDiTaNyMoRe country="Universal" manufacture="RCA" name="rca_4" />
+        <DoNoTeDiTaNyMoRe country="Universal" manufacture="RCA" name="rca_5" />
+        <DoNoTeDiTaNyMoRe country="Universal" manufacture="RCA" name="rca_6" />
+        <DoNoTeDiTaNyMoRe country="Universal" manufacture="RCA" name="rca_7" />
+        <DoNoTeDiTaNyMoRe country="Universal" manufacture="RCA" name="rca_8" />
     </remotes>
 
 
     <!--com.osfunapps.remoteformytv.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Nigeria" manufacture="My_TV" name="nig_mytv_1" />
+        <DoNoTeDiTaNyMoRe country="Nigeria" manufacture="My_TV" name="nig_mytv_1" />
     </remotes>
 
 
     <!--com.osfunapps.remotefortrendtv.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Nigeria" manufacture="Trend_TV" name="nig_trend_tv_1" />
+        <DoNoTeDiTaNyMoRe country="Nigeria" manufacture="Trend_TV" name="nig_trend_tv_1" />
     </remotes>
 
 
     <!--com.osfunapps.remoteforetb.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Colombia" manufacture="etb" name="colo_etb_1" />
+        <DoNoTeDiTaNyMoRe country="Colombia" manufacture="etb" name="colo_etb_1" />
 
     </remotes>
 
@@ -194,25 +194,25 @@ remote name: ar, category name: audio_receiver
     <!--com.osfunapps.remoteforwindtelecom.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Dominican_Republic" manufacture="Wind_Telecom" name="dr_wind_telecom_1" />
+        <DoNoTeDiTaNyMoRe country="Dominican_Republic" manufacture="Wind_Telecom" name="dr_wind_telecom_1" />
     </remotes>
 
 
     <!--com.osfunapps.remotefortechnisat.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Poland" manufacture="Technisat" name="pl_technisat_1" />
+        <DoNoTeDiTaNyMoRe country="Poland" manufacture="Technisat" name="pl_technisat_1" />
     </remotes>
 
 
     <!--com.osfunapps.remoteforfoxtel.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Australia" manufacture="Foxtel" name="aus_foxtel_1" />
-        <remote country="Australia" manufacture="Foxtel" name="aus_foxtel_2" />
-        <remote country="Australia" manufacture="Foxtel" name="aus_foxtel_4" />
-        <remote country="Australia" manufacture="Foxtel" name="aus_foxtel_6" />
-        <remote country="Australia" manufacture="Foxtel" name="aus_foxtel_7" />
+        <DoNoTeDiTaNyMoRe country="Australia" manufacture="Foxtel" name="aus_foxtel_1" />
+        <DoNoTeDiTaNyMoRe country="Australia" manufacture="Foxtel" name="aus_foxtel_2" />
+        <DoNoTeDiTaNyMoRe country="Australia" manufacture="Foxtel" name="aus_foxtel_4" />
+        <DoNoTeDiTaNyMoRe country="Australia" manufacture="Foxtel" name="aus_foxtel_6" />
+        <DoNoTeDiTaNyMoRe country="Australia" manufacture="Foxtel" name="aus_foxtel_7" />
 
     </remotes>
 
@@ -220,22 +220,22 @@ remote name: ar, category name: audio_receiver
     <!--com.osfunapps.remotefornxtdigital.xml-->
     <remotes storage='osapps_bucket' path='remotes' category='cable'>
 
-        <remote country='India' manufacture='NXT_Digital' name='ind_nxt_digital_1' />
-        <remote country='India' manufacture='NXT_Digital' name='ind_nxt_digital_2' />
-        <remote country='India' manufacture='NXT_Digital' name='ca_nxt_digital_3' />
-        <remote country='India' manufacture='NXT_Digital' name='ind_gtpl_5' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='NXT_Digital' name='ind_nxt_digital_1' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='NXT_Digital' name='ind_nxt_digital_2' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='NXT_Digital' name='ca_nxt_digital_3' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='NXT_Digital' name='ind_gtpl_5' />
     </remotes>
 
 
     <!--com.osfunapps.SkyDERemote.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Germany" manufacture="Sky" name="ger_sky_1" />
+        <DoNoTeDiTaNyMoRe country="Germany" manufacture="Sky" name="ger_sky_1" />
 
-        <remote country="England" manufacture="Sky" name="eng_sky_1" />
-        <remote country="England" manufacture="Sky" name="eng_sky_2" />
-        <remote country="England" manufacture="Sky" name="eng_sky_3" />
-        <remote country="England" manufacture="Sky" name="eng_sky_4" />
+        <DoNoTeDiTaNyMoRe country="England" manufacture="Sky" name="eng_sky_1" />
+        <DoNoTeDiTaNyMoRe country="England" manufacture="Sky" name="eng_sky_2" />
+        <DoNoTeDiTaNyMoRe country="England" manufacture="Sky" name="eng_sky_3" />
+        <DoNoTeDiTaNyMoRe country="England" manufacture="Sky" name="eng_sky_4" />
 
 
     </remotes>
@@ -244,47 +244,47 @@ remote name: ar, category name: audio_receiver
     <!--com.osfunapps.remotefororange.xml-->
     <remotes storage='osapps_bucket' path='remotes' category='cable'>
 
-        <remote country='France' manufacture='Orange' name='fr_orange_1' />
-        <remote country='France' manufacture='Orange' name='fr_orange_2' />
-        <remote country='France' manufacture='Orange' name='fr_orange_3' />
+        <DoNoTeDiTaNyMoRe country='France' manufacture='Orange' name='fr_orange_1' />
+        <DoNoTeDiTaNyMoRe country='France' manufacture='Orange' name='fr_orange_2' />
+        <DoNoTeDiTaNyMoRe country='France' manufacture='Orange' name='fr_orange_3' />
 
-        <remote country='France' manufacture='Orange' name='ca_orange_4' />
+        <DoNoTeDiTaNyMoRe country='France' manufacture='Orange' name='ca_orange_4' />
     </remotes>
 
 
     <!--com.osfunapps.SkyRemoteUK.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Germany" manufacture="Sky" name="ger_sky_1" />
+        <DoNoTeDiTaNyMoRe country="Germany" manufacture="Sky" name="ger_sky_1" />
 
-        <remote country="England" manufacture="Sky" name="eng_sky_1" />
-        <remote country="England" manufacture="Sky" name="eng_sky_2" />
-        <remote country="England" manufacture="Sky" name="eng_sky_3" />
-        <remote country="England" manufacture="Sky" name="eng_sky_4" />
+        <DoNoTeDiTaNyMoRe country="England" manufacture="Sky" name="eng_sky_1" />
+        <DoNoTeDiTaNyMoRe country="England" manufacture="Sky" name="eng_sky_2" />
+        <DoNoTeDiTaNyMoRe country="England" manufacture="Sky" name="eng_sky_3" />
+        <DoNoTeDiTaNyMoRe country="England" manufacture="Sky" name="eng_sky_4" />
     </remotes>
 
 
     <!--com.osfunapps.remoteforlogiceastern.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="India" manufacture="Logic_Eastern" name="ind_logic_eastern_1" />
-        <remote country="India" manufacture="Logic_Eastern" name="ind_logic_eastern_2" />
-        <remote country="India" manufacture="Logic_Eastern" name="ind_logic_eastern_3" />
-        <remote country="India" manufacture="Logic_Eastern" name="ind_logic_eastern_4" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="Logic_Eastern" name="ind_logic_eastern_1" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="Logic_Eastern" name="ind_logic_eastern_2" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="Logic_Eastern" name="ind_logic_eastern_3" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="Logic_Eastern" name="ind_logic_eastern_4" />
     </remotes>
 
 
     <!--com.osfunapps.remoteforizzitv.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Mexico" manufacture="Izzi_TV" name="mx_izzitv_1" />
+        <DoNoTeDiTaNyMoRe country="Mexico" manufacture="Izzi_TV" name="mx_izzitv_1" />
     </remotes>
 
 
     <!--com.osfunapps.remotefordirecttvcolombia.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Colombia" manufacture="Direct_TV" name="colo_directtv_1" />
+        <DoNoTeDiTaNyMoRe country="Colombia" manufacture="Direct_TV" name="colo_directtv_1" />
 
     </remotes>
 
@@ -292,24 +292,24 @@ remote name: ar, category name: audio_receiver
     <!--com.osfunapps.remotefortricom.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Dominican_Republic" manufacture="Tricom" name="dr_tricom_1" />
-        <remote country="Dominican_Republic" manufacture="Tricom" name="dr_tricom_2" />
+        <DoNoTeDiTaNyMoRe country="Dominican_Republic" manufacture="Tricom" name="dr_tricom_1" />
+        <DoNoTeDiTaNyMoRe country="Dominican_Republic" manufacture="Tricom" name="dr_tricom_2" />
     </remotes>
 
 
     <!--com.osfunapps.RemoteforUnitymedia.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Germany" manufacture="Unity_Media" name="ger_unitymedia_1" />
-        <remote country="Germany" manufacture="Unity_Media" name="ger_unitymedia_2" />
+        <DoNoTeDiTaNyMoRe country="Germany" manufacture="Unity_Media" name="ger_unitymedia_1" />
+        <DoNoTeDiTaNyMoRe country="Germany" manufacture="Unity_Media" name="ger_unitymedia_2" />
     </remotes>
 
 
     <!--com.osfunapps.remoteformultitv.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Nigeria" manufacture="Multi_TV" name="nig_multi_tv_1" />
-        <remote country="Nigeria" manufacture="Multi_TV" name="nig_multi_tv_2" />
+        <DoNoTeDiTaNyMoRe country="Nigeria" manufacture="Multi_TV" name="nig_multi_tv_1" />
+        <DoNoTeDiTaNyMoRe country="Nigeria" manufacture="Multi_TV" name="nig_multi_tv_2" />
     </remotes>
 
 
@@ -317,22 +317,22 @@ remote name: ar, category name: audio_receiver
 
     <remotes storage='osapps_bucket' path='remotes' category='tv'>
 
-        <remote country='Universal' manufacture='Toshiba' name='toshiba_1' />
-        <remote country='Universal' manufacture='Toshiba' name='toshiba_2' />
-        <remote country='Universal' manufacture='Toshiba' name='toshiba_3' />
-        <remote country='Universal' manufacture='Toshiba' name='toshiba_4' />
-        <remote country='Universal' manufacture='Toshiba' name='toshiba_5' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Toshiba' name='toshiba_1' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Toshiba' name='toshiba_2' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Toshiba' name='toshiba_3' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Toshiba' name='toshiba_4' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Toshiba' name='toshiba_5' />
 
 
-        <remote country='Universal' manufacture='Toshiba' name='tv_toshiba_6' />
-        <remote country='Universal' manufacture='Toshiba' name='tv_toshiba_7' />
-        <remote country='Universal' manufacture='Toshiba' name='tv_toshiba_8' />
-        <remote country='Universal' manufacture='Toshiba' name='tv_toshiba_9' />
-        <remote country='Universal' manufacture='Toshiba' name='tv_toshiba_10' />
-        <remote country='Universal' manufacture='Toshiba' name='tv_toshiba_11' />
-        <remote country='Universal' manufacture='Toshiba' name='tv_toshiba_12' />
-        <remote country='Universal' manufacture='Toshiba' name='tv_toshiba_13' />
-        <remote country='Universal' manufacture='Toshiba' name='tv_toshiba_14' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Toshiba' name='tv_toshiba_6' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Toshiba' name='tv_toshiba_7' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Toshiba' name='tv_toshiba_8' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Toshiba' name='tv_toshiba_9' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Toshiba' name='tv_toshiba_10' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Toshiba' name='tv_toshiba_11' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Toshiba' name='tv_toshiba_12' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Toshiba' name='tv_toshiba_13' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Toshiba' name='tv_toshiba_14' />
 
     </remotes>
 
@@ -340,8 +340,8 @@ remote name: ar, category name: audio_receiver
     <!--com.osfunapps.remotefortigoune.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Colombia" manufacture="Tigo_Une" name="colo_tigo_une_1" />
-        <remote country="Colombia" manufacture="Tigo_Une" name="colo_tigo_une_2" />
+        <DoNoTeDiTaNyMoRe country="Colombia" manufacture="Tigo_Une" name="colo_tigo_une_1" />
+        <DoNoTeDiTaNyMoRe country="Colombia" manufacture="Tigo_Une" name="colo_tigo_une_2" />
 
     </remotes>
 
@@ -349,48 +349,48 @@ remote name: ar, category name: audio_receiver
     <!--com.osfunapps.remoteforvectra.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Poland" manufacture="Vectra" name="pl_vectra_1" />
+        <DoNoTeDiTaNyMoRe country="Poland" manufacture="Vectra" name="pl_vectra_1" />
     </remotes>
 
 
     <!--com.osfunapps.RemoteforRelianceDigital.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="India" manufacture="Reliance_Digital" name="ind_reliance_digital_1" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="Reliance_Digital" name="ind_reliance_digital_1" />
     </remotes>
 
 
     <!--com.osfunapps.remotefornetvision.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="India" manufacture="Netvision" name="ind_netvision_1" />
-        <remote country="India" manufacture="Netvision" name="ind_radiant_digitek_2_netvision_2" />
-        <remote country="India" manufacture="Netvision" name="ind_netvision_3" />
-        <remote country="India" manufacture="Netvision" name="ind_netvision_4" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="Netvision" name="ind_netvision_1" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="Netvision" name="ind_radiant_digitek_2_netvision_2" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="Netvision" name="ind_netvision_3" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="Netvision" name="ind_netvision_4" />
     </remotes>
 
 
     <!--com.osapps.airremote.xml-->
     <remotes category="ac" path="ac_remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Israel" manufacture="Electra" name="ac_electra_1" />
-        <remote country="Israel" manufacture="Electra" name="ac_electra_2" />
-        <remote country="Israel" manufacture="Electra" name="ac_electra_3" />
-        <remote country="Israel" manufacture="Electra" name="ac_gree_2" />
+        <DoNoTeDiTaNyMoRe country="Israel" manufacture="Electra" name="ac_electra_1" />
+        <DoNoTeDiTaNyMoRe country="Israel" manufacture="Electra" name="ac_electra_2" />
+        <DoNoTeDiTaNyMoRe country="Israel" manufacture="Electra" name="ac_electra_3" />
+        <DoNoTeDiTaNyMoRe country="Israel" manufacture="Electra" name="ac_gree_2" />
 
-        <remote country="Israel" manufacture="Tadiran" name="ac_tadiran_1" />
-        <remote country="Israel" manufacture="Tadiran" name="ac_tadiran_2" />
-        <remote country="Israel" manufacture="Tadiran" name="ac_tadiran_3" />
-        <remote country="Israel" manufacture="Tadiran" name="ac_tadiran_4" />
-        <remote country="Israel" manufacture="Tadiran" name="ac_gree_5" />
-        <remote country="Israel" manufacture="Tadiran" name="ac_gree_4" />
+        <DoNoTeDiTaNyMoRe country="Israel" manufacture="Tadiran" name="ac_tadiran_1" />
+        <DoNoTeDiTaNyMoRe country="Israel" manufacture="Tadiran" name="ac_tadiran_2" />
+        <DoNoTeDiTaNyMoRe country="Israel" manufacture="Tadiran" name="ac_tadiran_3" />
+        <DoNoTeDiTaNyMoRe country="Israel" manufacture="Tadiran" name="ac_tadiran_4" />
+        <DoNoTeDiTaNyMoRe country="Israel" manufacture="Tadiran" name="ac_gree_5" />
+        <DoNoTeDiTaNyMoRe country="Israel" manufacture="Tadiran" name="ac_gree_4" />
 
-        <remote country="Israel" manufacture="Tornado" name="ac_tornado_1" />
-        <remote country="Israel" manufacture="Tornado" name="ac_tornado_2" />
-        <remote country="Israel" manufacture="Tornado" name="ac_his_4" />
-        <remote country="Israel" manufacture="Tornado" name="ac_mit_2" />
-        <remote country="Israel" manufacture="Tornado" name="ac_whirlpool_1" />
-        <remote country="Israel" manufacture="Tornado" name="ac_whirlpool_3" />
+        <DoNoTeDiTaNyMoRe country="Israel" manufacture="Tornado" name="ac_tornado_1" />
+        <DoNoTeDiTaNyMoRe country="Israel" manufacture="Tornado" name="ac_tornado_2" />
+        <DoNoTeDiTaNyMoRe country="Israel" manufacture="Tornado" name="ac_his_4" />
+        <DoNoTeDiTaNyMoRe country="Israel" manufacture="Tornado" name="ac_mit_2" />
+        <DoNoTeDiTaNyMoRe country="Israel" manufacture="Tornado" name="ac_whirlpool_1" />
+        <DoNoTeDiTaNyMoRe country="Israel" manufacture="Tornado" name="ac_whirlpool_3" />
 
     </remotes>
 
@@ -398,46 +398,46 @@ remote name: ar, category name: audio_receiver
     <!--com.osfunapps.remoteforvizio.xml-->
     <remotes storage='osapps_bucket' path='remotes' category='cable'>
 
-        <remote country='Universal' manufacture='Vizio' name='vizio_1' />
-        <remote country='Universal' manufacture='Vizio' name='vizio_2' />
-        <remote country='Universal' manufacture='Vizio' name='vizio_3' />
-        <remote country='Universal' manufacture='Vizio' name='vizio_4' />
-        <remote country='Universal' manufacture='Vizio' name='vizio_5' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Vizio' name='vizio_1' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Vizio' name='vizio_2' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Vizio' name='vizio_3' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Vizio' name='vizio_4' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Vizio' name='vizio_5' />
     </remotes>
 
     <remotes storage='osapps_bucket' path='remotes' category='sound_bar'>
-        <remote name='sb_vizio_6' country='Universal' manufacture='vizio' />
-        <remote name='sb_vizio_7' country='Universal' manufacture='vizio' />
+        <DoNoTeDiTaNyMoRe name='sb_vizio_6' country='Universal' manufacture='vizio' />
+        <DoNoTeDiTaNyMoRe name='sb_vizio_7' country='Universal' manufacture='vizio' />
     </remotes>
 
 
     <!--com.osfunapps.remoteforhomecast.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Ukraine" manufacture="Home_Cast" name="ukr_home_cast_1" />
+        <DoNoTeDiTaNyMoRe country="Ukraine" manufacture="Home_Cast" name="ukr_home_cast_1" />
     </remotes>
 
 
     <!--com.osfunapps.RemoteforZgemma.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="England" manufacture="Zgemma" name="eng_zgemma_1" />
-        <remote country="England" manufacture="Zgemma" name="eng_zgemma_2" />
+        <DoNoTeDiTaNyMoRe country="England" manufacture="Zgemma" name="eng_zgemma_1" />
+        <DoNoTeDiTaNyMoRe country="England" manufacture="Zgemma" name="eng_zgemma_2" />
     </remotes>
 
 
     <!--com.osfunapps.remoteforskyindia.xml-->
     <remotes storage='weedle_remotes_bucket' path='remotes' category='cable'>
 
-        <remote country='India' manufacture='TATA_Sky' name='ind_tatasky_1' />
-        <remote country='India' manufacture='TATA_Sky' name='ind_tatasky_2' />
-        <remote country='India' manufacture='TATA_Sky' name='ind_tatasky_3' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='TATA_Sky' name='ind_tatasky_1' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='TATA_Sky' name='ind_tatasky_2' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='TATA_Sky' name='ind_tatasky_3' />
 
-        <remote country='India' manufacture='TATA_Sky' name='ca_tatasky_4' />
-        <remote country='India' manufacture='TATA_Sky' name='ca_tatasky_5' />
-        <remote country='India' manufacture='TATA_Sky' name='ca_tatasky_6' />
-        <remote country='India' manufacture='TATA_Sky' name='ca_tatasky_7' />
-        <remote country='India' manufacture='TATA_Sky' name='ca_tatasky_8' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='TATA_Sky' name='ca_tatasky_4' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='TATA_Sky' name='ca_tatasky_5' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='TATA_Sky' name='ca_tatasky_6' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='TATA_Sky' name='ca_tatasky_7' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='TATA_Sky' name='ca_tatasky_8' />
 
     </remotes>
 
@@ -445,17 +445,17 @@ remote name: ar, category name: audio_receiver
     <!--com.osfunapps.remoteforcablevisionmexico.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Mexico" manufacture="Cablevision" name="mx_cablevision_1" />
-        <remote country="Mexico" manufacture="Cablevision" name="mx_cablevision_2" />
-        <remote country="Mexico" manufacture="Cablevision" name="mx_cablevision_3" />
-        <remote country="Mexico" manufacture="Cablevision" name="mx_cablevision_4" />
+        <DoNoTeDiTaNyMoRe country="Mexico" manufacture="Cablevision" name="mx_cablevision_1" />
+        <DoNoTeDiTaNyMoRe country="Mexico" manufacture="Cablevision" name="mx_cablevision_2" />
+        <DoNoTeDiTaNyMoRe country="Mexico" manufacture="Cablevision" name="mx_cablevision_3" />
+        <DoNoTeDiTaNyMoRe country="Mexico" manufacture="Cablevision" name="mx_cablevision_4" />
     </remotes>
 
 
     <!--com.osfunapps.remotefortelstra.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Australia" manufacture="Telstra" name="aus_telstra_1" />
+        <DoNoTeDiTaNyMoRe country="Australia" manufacture="Telstra" name="aus_telstra_1" />
 
     </remotes>
 
@@ -463,19 +463,19 @@ remote name: ar, category name: audio_receiver
     <!--com.osfunapps.remoteforpanasonic.xml-->
     <remotes storage='weedle_remotes_bucket' path='remotes' category='tv'>
 
-        <remote country='Universal' manufacture='Panasonic' name='panasonic_1' />
-        <remote country='Universal' manufacture='Panasonic' name='panasonic_2' />
-        <remote country='Universal' manufacture='Panasonic' name='panasonic_3' />
-        <remote country='Universal' manufacture='Panasonic' name='panasonic_4' />
-        <remote country='Universal' manufacture='Panasonic' name='panasonic_5' />
-        <remote country='Universal' manufacture='Panasonic' name='panasonic_6' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Panasonic' name='panasonic_1' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Panasonic' name='panasonic_2' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Panasonic' name='panasonic_3' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Panasonic' name='panasonic_4' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Panasonic' name='panasonic_5' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Panasonic' name='panasonic_6' />
 
-        <remote country='Universal' manufacture='Panasonic' name='tv_panasonic_7' />
-        <remote country='Universal' manufacture='Panasonic' name='tv_panasonic_8' />
-        <remote country='Universal' manufacture='Panasonic' name='tv_panasonic_9' />
-        <remote country='Universal' manufacture='Panasonic' name='tv_panasonic_10' />
-        <remote country='Universal' manufacture='Panasonic' name='tv_panasonic_11' />
-        <remote country='Universal' manufacture='Panasonic' name='tv_panasonic_12' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Panasonic' name='tv_panasonic_7' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Panasonic' name='tv_panasonic_8' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Panasonic' name='tv_panasonic_9' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Panasonic' name='tv_panasonic_10' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Panasonic' name='tv_panasonic_11' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Panasonic' name='tv_panasonic_12' />
 
 
     </remotes>
@@ -484,18 +484,18 @@ remote name: ar, category name: audio_receiver
     <!--com.osfunapps.dentvremotecontrol.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="India" manufacture="Den" name="ind_den_1" />
-        <remote country="India" manufacture="Den" name="ind_den_2" />
-        <remote country="India" manufacture="Den" name="ind_den_3" />
-        <remote country="India" manufacture="Den" name="ind_den_4" />
-        <remote country="India" manufacture="Den" name="ind_den_5" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="Den" name="ind_den_1" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="Den" name="ind_den_2" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="Den" name="ind_den_3" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="Den" name="ind_den_4" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="Den" name="ind_den_5" />
     </remotes>
 
 
     <!--com.osfunapps.remoteforwesterndigital.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Australia" manufacture="Western_Digital" name="aus_western_digital_1" />
+        <DoNoTeDiTaNyMoRe country="Australia" manufacture="Western_Digital" name="aus_western_digital_1" />
 
     </remotes>
 
@@ -503,21 +503,21 @@ remote name: ar, category name: audio_receiver
     <!--com.osfunapps.remoteforindigital.xml-->
     <remotes storage='weedle_remotes_bucket' path='remotes' category='cable'>
 
-        <remote country='India' manufacture='In_Digital' name='ind_in_digital_1' />
-        <remote country='India' manufacture='In_Digital' name='ind_in_digital_2' />
-        <remote country='India' manufacture='In_Digital' name='ind_in_digital_3' />
-        <remote country='India' manufacture='In_Digital' name='ind_in_digital_4' />
-        <remote country='India' manufacture='In_Digital' name='ind_in_digital_5' />
-        <remote country='India' manufacture='In_Digital' name='ind_in_digital_6' />
-        <remote country='India' manufacture='In_Digital' name='ind_in_digital_7' />
-        <remote country='India' manufacture='In_Digital' name='ind_in_digital_8' />
-        <remote country='India' manufacture='In_Digital' name='ind_in_digital_9' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='In_Digital' name='ind_in_digital_1' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='In_Digital' name='ind_in_digital_2' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='In_Digital' name='ind_in_digital_3' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='In_Digital' name='ind_in_digital_4' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='In_Digital' name='ind_in_digital_5' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='In_Digital' name='ind_in_digital_6' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='In_Digital' name='ind_in_digital_7' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='In_Digital' name='ind_in_digital_8' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='In_Digital' name='ind_in_digital_9' />
 
-        <remote country='India' manufacture='In_Digital' name='ca_in_digital_11' />
-        <remote country='India' manufacture='In_Digital' name='ca_in_digital_12' />
-        <remote country='India' manufacture='In_Digital' name='ca_in_digital_13' />
-        <remote country='India' manufacture='In_Digital' name='ca_in_digital_14' />
-        <remote country='India' manufacture='In_Digital' name='ca_in_digital_15' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='In_Digital' name='ca_in_digital_11' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='In_Digital' name='ca_in_digital_12' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='In_Digital' name='ca_in_digital_13' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='In_Digital' name='ca_in_digital_14' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='In_Digital' name='ca_in_digital_15' />
 
     </remotes>
 
@@ -526,23 +526,23 @@ remote name: ar, category name: audio_receiver
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
 
-        <remote country="India" manufacture="gtpl" name="ind_gtpl_1" />
-        <remote country="India" manufacture="gtpl" name="ind_gtpl_2" />
-        <remote country="India" manufacture="gtpl" name="ind_gtpl_3" />
-        <remote country="India" manufacture="gtpl" name="ind_gtpl_4" />
-        <remote country="India" manufacture="gtpl" name="ind_gtpl_5" />
-        <remote country="India" manufacture="gtpl" name="ind_gtpl_6" />
-        <remote country="India" manufacture="gtpl" name="ind_gtpl_7" />
-        <remote country="India" manufacture="gtpl" name="ind_gtpl_8" />
-        <remote country="India" manufacture="gtpl" name="ind_gtpl_9" />
-        <remote country="India" manufacture="gtpl" name="ind_gtpl_10" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="gtpl" name="ind_gtpl_1" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="gtpl" name="ind_gtpl_2" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="gtpl" name="ind_gtpl_3" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="gtpl" name="ind_gtpl_4" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="gtpl" name="ind_gtpl_5" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="gtpl" name="ind_gtpl_6" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="gtpl" name="ind_gtpl_7" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="gtpl" name="ind_gtpl_8" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="gtpl" name="ind_gtpl_9" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="gtpl" name="ind_gtpl_10" />
 
-        <remote country='India' manufacture='gtpl' name='ca_gtpl_12' />
-        <remote country='India' manufacture='gtpl' name='ca_gtpl_13' />
-        <remote country='India' manufacture='gtpl' name='ca_gtpl_15' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='gtpl' name='ca_gtpl_12' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='gtpl' name='ca_gtpl_13' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='gtpl' name='ca_gtpl_15' />
 
-        <remote country="India" manufacture="gtpl" name="ind_hathway_2" />
-        <remote country="India" manufacture="gtpl" name="ind_cisco_1" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="gtpl" name="ind_hathway_2" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="gtpl" name="ind_cisco_1" />
 
     </remotes>
 
@@ -550,16 +550,16 @@ remote name: ar, category name: audio_receiver
     <!--com.osfunapps.remoteforclarohonduras.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Honduras" manufacture="Claro" name="hond_claro_1" />
-        <remote country="Honduras" manufacture="Claro" name="hond_claro_2" />
-        <remote country="Honduras" manufacture="Claro" name="hond_claro_3" />
+        <DoNoTeDiTaNyMoRe country="Honduras" manufacture="Claro" name="hond_claro_1" />
+        <DoNoTeDiTaNyMoRe country="Honduras" manufacture="Claro" name="hond_claro_2" />
+        <DoNoTeDiTaNyMoRe country="Honduras" manufacture="Claro" name="hond_claro_3" />
     </remotes>
 
 
     <!--com.osfunapps.remoteformoviestar.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Colombia" manufacture="Movie_Star" name="colo_movistar_1" />
+        <DoNoTeDiTaNyMoRe country="Colombia" manufacture="Movie_Star" name="colo_movistar_1" />
 
     </remotes>
 
@@ -567,35 +567,35 @@ remote name: ar, category name: audio_receiver
     <!--com.osfunapps.remoteforsolid.xml-->
     <remotes storage='weedle_remotes_bucket' path='remotes' category='cable'>
 
-        <remote country='India' manufacture='solid' name='ind_solid_1' />
-        <remote country='India' manufacture='solid' name='ca_solid_2' />
-        <remote country='India' manufacture='solid' name='ca_solid_3' />
-        <remote country='India' manufacture='solid' name='ca_solid_4' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='solid' name='ind_solid_1' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='solid' name='ca_solid_2' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='solid' name='ca_solid_3' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='solid' name='ca_solid_4' />
     </remotes>
 
 
     <!--com.osfunapps.remoteforsamsung.xml-->
     <remotes storage='weedle_remotes_bucket' path='remotes' category='tv'>
 
-        <remote country='Universal' manufacture='Samsung' name='samsung_1' />
-        <remote country='Universal' manufacture='Samsung' name='samsung_2' />
-        <remote country='Universal' manufacture='Samsung' name='samsung_3' />
-        <remote country='Universal' manufacture='Samsung' name='samsung_4' />
-        <remote country='Universal' manufacture='Samsung' name='samsung_5' />
-        <remote country='Universal' manufacture='Samsung' name='samsung_6' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Samsung' name='samsung_1' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Samsung' name='samsung_2' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Samsung' name='samsung_3' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Samsung' name='samsung_4' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Samsung' name='samsung_5' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Samsung' name='samsung_6' />
 
 
-        <remote country='Universal' manufacture='Samsung' name='tv_samsung_7' />
-        <remote country='Universal' manufacture='Samsung' name='tv_samsung_8' />
-        <remote country='Universal' manufacture='Samsung' name='tv_samsung_9' />
-        <remote country='Universal' manufacture='Samsung' name='tv_samsung_10' />
-        <remote country='Universal' manufacture='Samsung' name='tv_samsung_11' />
-        <remote country='Universal' manufacture='Samsung' name='tv_samsung_12' />
-        <remote country='Universal' manufacture='Samsung' name='tv_samsung_13' />
-        <remote country='Universal' manufacture='Samsung' name='tv_samsung_14' />
-        <remote country='Universal' manufacture='Samsung' name='tv_samsung_16' />
-        <remote country='Universal' manufacture='Samsung' name='tv_samsung_17' />
-        <remote country='Universal' manufacture='Samsung' name='tv_samsung_18' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Samsung' name='tv_samsung_7' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Samsung' name='tv_samsung_8' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Samsung' name='tv_samsung_9' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Samsung' name='tv_samsung_10' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Samsung' name='tv_samsung_11' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Samsung' name='tv_samsung_12' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Samsung' name='tv_samsung_13' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Samsung' name='tv_samsung_14' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Samsung' name='tv_samsung_16' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Samsung' name='tv_samsung_17' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Samsung' name='tv_samsung_18' />
 
     </remotes>
 
@@ -603,174 +603,174 @@ remote name: ar, category name: audio_receiver
     <!--com.osfunapps.remoteforbtvision.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="England" manufacture="BT_Vision" name="eng_btvision_1" />
-        <remote country="England" manufacture="BT_Vision" name="eng_btvision_2" />
-        <remote country="England" manufacture="BT_Vision" name="eng_btvision_3" />
+        <DoNoTeDiTaNyMoRe country="England" manufacture="BT_Vision" name="eng_btvision_1" />
+        <DoNoTeDiTaNyMoRe country="England" manufacture="BT_Vision" name="eng_btvision_2" />
+        <DoNoTeDiTaNyMoRe country="England" manufacture="BT_Vision" name="eng_btvision_3" />
     </remotes>
 
 
     <!--com.osfunapps.remoteforciscoindia.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="India" manufacture="Cisco" name="ind_cisco_1" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="Cisco" name="ind_cisco_1" />
     </remotes>
 
 
     <!--com.osfunapps.remotefornc.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Poland" manufacture="NC" name="pl_nc_3" />
-        <remote country="Poland" manufacture="NC" name="pl_nc_4" />
-        <remote country="Poland" manufacture="NC" name="pl_nc_5" />
-        <remote country="Poland" manufacture="NC" name="pl_nc_6" />
+        <DoNoTeDiTaNyMoRe country="Poland" manufacture="NC" name="pl_nc_3" />
+        <DoNoTeDiTaNyMoRe country="Poland" manufacture="NC" name="pl_nc_4" />
+        <DoNoTeDiTaNyMoRe country="Poland" manufacture="NC" name="pl_nc_5" />
+        <DoNoTeDiTaNyMoRe country="Poland" manufacture="NC" name="pl_nc_6" />
     </remotes>
 
 
     <!--com.osfunapps.DishTVRemote.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country='India' manufacture='Dish_TV' name='ind_dishtv_1' />
-        <remote country='India' manufacture='Dish_TV' name='ind_dishtv_2' />
-        <remote country='India' manufacture='Dish_TV' name='ind_dishtv_3' />
-        <remote country='India' manufacture='Dish_TV' name='ind_dishtv_4' />
-        <remote country='India' manufacture='Dish_TV' name='ind_dishtv_5' />
-        <remote country='India' manufacture='Dish_TV' name='ind_dishtv_6' />
-        <remote country='India' manufacture='Dish_TV' name='ind_dishtv_7' />
-        <remote country='India' manufacture='Dish_TV' name='ind_dishtv_8' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Dish_TV' name='ind_dishtv_1' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Dish_TV' name='ind_dishtv_2' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Dish_TV' name='ind_dishtv_3' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Dish_TV' name='ind_dishtv_4' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Dish_TV' name='ind_dishtv_5' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Dish_TV' name='ind_dishtv_6' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Dish_TV' name='ind_dishtv_7' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Dish_TV' name='ind_dishtv_8' />
 
-        <remote country='India' manufacture='Dish_TV' name='ca_zenga_1' />
-        <remote country='India' manufacture='Dish_TV' name='ca_zenga_2' />
-        <remote country='India' manufacture='Dish_TV' name='ca_zenga_3' />
-        <remote country='India' manufacture='Dish_TV' name='ca_zenga_5' />
-        <remote country='India' manufacture='Dish_TV' name='ca_zenga_6' />
-        <remote country='India' manufacture='Dish_TV' name='ca_zenga_7m' />
-        <remote country='India' manufacture='Dish_TV' name='ca_zenga_8' />
-        <remote country='India' manufacture='Dish_TV' name='ca_zenga_9' />
-        <remote country='India' manufacture='Dish_TV' name='ca_zenga_10' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Dish_TV' name='ca_zenga_1' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Dish_TV' name='ca_zenga_2' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Dish_TV' name='ca_zenga_3' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Dish_TV' name='ca_zenga_5' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Dish_TV' name='ca_zenga_6' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Dish_TV' name='ca_zenga_7m' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Dish_TV' name='ca_zenga_8' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Dish_TV' name='ca_zenga_9' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Dish_TV' name='ca_zenga_10' />
     </remotes>
 
 
     <!--com.osfunapps.remoteforsrdigital.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="India" manufacture="sr_digital" name="ind_sr_digital_1" />
-        <remote country="India" manufacture="sr_digital" name="ind_sr_digital_2" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="sr_digital" name="ind_sr_digital_1" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="sr_digital" name="ind_sr_digital_2" />
     </remotes>
 
 
     <!--com.osfunapps.remoteforeirvision.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Ireland" manufacture="Eir_Vision" name="irl_eir_vision_1" />
+        <DoNoTeDiTaNyMoRe country="Ireland" manufacture="Eir_Vision" name="irl_eir_vision_1" />
     </remotes>
 
 
     <!--com.osfunapps.remoteformediasetpremium.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Italy" manufacture="Mediaset_Premium" name="it_mediasetpremium_1" />
-        <remote country="Italy" manufacture="Mediaset_Premium" name="it_mediasetpremium_2" />
+        <DoNoTeDiTaNyMoRe country="Italy" manufacture="Mediaset_Premium" name="it_mediasetpremium_1" />
+        <DoNoTeDiTaNyMoRe country="Italy" manufacture="Mediaset_Premium" name="it_mediasetpremium_2" />
     </remotes>
 
 
     <!--com.osfunapps.remoteforbouyguestelecom.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="France" manufacture="Bouygues_Telecom" name="fr_bouygues_1" />
+        <DoNoTeDiTaNyMoRe country="France" manufacture="Bouygues_Telecom" name="fr_bouygues_1" />
     </remotes>
 
 
     <!--com.osfunapps.remoteforvolia.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Ukraine" manufacture="Volia" name="ukr_volia_1" />
-        <remote country="Ukraine" manufacture="Volia" name="ukr_volia_2" />
-        <remote country="Ukraine" manufacture="Volia" name="ukr_volia_3" />
-        <remote country="Ukraine" manufacture="Volia" name="ukr_volia_4" />
+        <DoNoTeDiTaNyMoRe country="Ukraine" manufacture="Volia" name="ukr_volia_1" />
+        <DoNoTeDiTaNyMoRe country="Ukraine" manufacture="Volia" name="ukr_volia_2" />
+        <DoNoTeDiTaNyMoRe country="Ukraine" manufacture="Volia" name="ukr_volia_3" />
+        <DoNoTeDiTaNyMoRe country="Ukraine" manufacture="Volia" name="ukr_volia_4" />
     </remotes>
 
 
     <!--com.osfunapps.remoteforortel.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="India" manufacture="ortel" name="ind_ortel_1" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="ortel" name="ind_ortel_1" />
     </remotes>
 
 
     <!--com.osfunapps.remoteforcatvision.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="India" manufacture="Catvision" name="ind_catvision_1" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="Catvision" name="ind_catvision_1" />
     </remotes>
 
 
     <!--com.osfunapps.remoteforstartimes.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Nigeria" manufacture="Star_Times" name="nig_star_times_1" />
-        <remote country="Nigeria" manufacture="Star_Times" name="nig_star_times_2" />
+        <DoNoTeDiTaNyMoRe country="Nigeria" manufacture="Star_Times" name="nig_star_times_1" />
+        <DoNoTeDiTaNyMoRe country="Nigeria" manufacture="Star_Times" name="nig_star_times_2" />
     </remotes>
 
 
     <!--com.osfunapps.RemoteforSkyMexico.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Mexico" manufacture="Sky" name="mx_sky_1" />
-        <remote country="Mexico" manufacture="Sky" name="mx_sky_2" />
-        <remote country="Mexico" manufacture="Sky" name="mx_sky_3" />
+        <DoNoTeDiTaNyMoRe country="Mexico" manufacture="Sky" name="mx_sky_1" />
+        <DoNoTeDiTaNyMoRe country="Mexico" manufacture="Sky" name="mx_sky_2" />
+        <DoNoTeDiTaNyMoRe country="Mexico" manufacture="Sky" name="mx_sky_3" />
     </remotes>
 
 
     <!--com.osfunapps.remoteforvirgin.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="England" manufacture="Virgin" name="eng_virgin_1" />
-        <remote country="England" manufacture="Virgin" name="eng_virgin_2" />
-        <remote country="England" manufacture="Virgin" name="eng_virgin_3" />
-        <remote country="England" manufacture="Virgin" name="eng_virgin_4" />
-        <remote country="England" manufacture="Virgin" name="eng_virgin_5" />
+        <DoNoTeDiTaNyMoRe country="England" manufacture="Virgin" name="eng_virgin_1" />
+        <DoNoTeDiTaNyMoRe country="England" manufacture="Virgin" name="eng_virgin_2" />
+        <DoNoTeDiTaNyMoRe country="England" manufacture="Virgin" name="eng_virgin_3" />
+        <DoNoTeDiTaNyMoRe country="England" manufacture="Virgin" name="eng_virgin_4" />
+        <DoNoTeDiTaNyMoRe country="England" manufacture="Virgin" name="eng_virgin_5" />
     </remotes>
 
 
     <!--com.osfunapps.remoteForFastWay.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="India" manufacture="fast_way" name="ind_fast_way_1" />
-        <remote country="India" manufacture="fast_way" name="ind_fast_way_2" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="fast_way" name="ind_fast_way_1" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="fast_way" name="ind_fast_way_2" />
     </remotes>
 
 
     <!--com.osfunapps.remotefortbroad.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="South_Korea" manufacture="T_Broad" name="sk_t_broad_1" />
+        <DoNoTeDiTaNyMoRe country="South_Korea" manufacture="T_Broad" name="sk_t_broad_1" />
     </remotes>
 
 
     <!--com.osfunapps.remotefortotalplay.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Mexico" manufacture="Total_Play" name="mx_totalplay_1" />
-        <remote country="Mexico" manufacture="Total_Play" name="mx_totalplay_2" />
-        <remote country="Mexico" manufacture="Total_Play" name="mx_totalplay_3" />
-        <remote country="Mexico" manufacture="Total_Play" name="mx_totalplay_4" />
-        <remote country="Mexico" manufacture="Total_Play" name="mx_totalplay_5" />
+        <DoNoTeDiTaNyMoRe country="Mexico" manufacture="Total_Play" name="mx_totalplay_1" />
+        <DoNoTeDiTaNyMoRe country="Mexico" manufacture="Total_Play" name="mx_totalplay_2" />
+        <DoNoTeDiTaNyMoRe country="Mexico" manufacture="Total_Play" name="mx_totalplay_3" />
+        <DoNoTeDiTaNyMoRe country="Mexico" manufacture="Total_Play" name="mx_totalplay_4" />
+        <DoNoTeDiTaNyMoRe country="Mexico" manufacture="Total_Play" name="mx_totalplay_5" />
     </remotes>
 
 
     <!--com.osfunapps.remoteforstarsat.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Nigeria" manufacture="Star_Sat" name="nig_star_sat_1" />
+        <DoNoTeDiTaNyMoRe country="Nigeria" manufacture="Star_Sat" name="nig_star_sat_1" />
     </remotes>
 
 
     <!--com.osfunapps.remoteforclarocolombia.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Colombia" manufacture="Claro" name="colo_claro_1" />
-        <remote country="Colombia" manufacture="Claro" name="colo_claro_2" />
-        <remote country="Colombia" manufacture="Claro" name="colo_claro_3" />
+        <DoNoTeDiTaNyMoRe country="Colombia" manufacture="Claro" name="colo_claro_1" />
+        <DoNoTeDiTaNyMoRe country="Colombia" manufacture="Claro" name="colo_claro_2" />
+        <DoNoTeDiTaNyMoRe country="Colombia" manufacture="Claro" name="colo_claro_3" />
 
     </remotes>
 
@@ -778,65 +778,65 @@ remote name: ar, category name: audio_receiver
     <!--com.osfunapps.remotefortelekomromania.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Romania" manufacture="Telekom" name="rom_telecom_1" />
-        <remote country="Romania" manufacture="Telekom" name="rom_telecom_2" />
-        <remote country="Romania" manufacture="Telekom" name="rom_telecom_3" />
+        <DoNoTeDiTaNyMoRe country="Romania" manufacture="Telekom" name="rom_telecom_1" />
+        <DoNoTeDiTaNyMoRe country="Romania" manufacture="Telekom" name="rom_telecom_2" />
+        <DoNoTeDiTaNyMoRe country="Romania" manufacture="Telekom" name="rom_telecom_3" />
     </remotes>
 
 
     <!--com.osfunapps.RemoteforAirtel.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="India" manufacture="Airtel" name="ind_airtel_1" />
-        <remote country="India" manufacture="Airtel" name="ind_airtel_2" />
-        <remote country="India" manufacture="Airtel" name="ca_airtel_3" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="Airtel" name="ind_airtel_1" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="Airtel" name="ind_airtel_2" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="Airtel" name="ca_airtel_3" />
 
     </remotes>
 
 
     <!--com.osfunapps.Remoteforvidecondth.xml-->
     <remotes storage='weedle_remotes_bucket' path='remotes' category='cable'>
-        <remote country='India' manufacture='Videocon_DTH' name='ind_vc_1' />
-        <remote country='India' manufacture='Videocon_DTH' name='ind_vc_2' />
-        <remote country='India' manufacture='Videocon_DTH' name='ind_vc_3' />
-        <remote country='India' manufacture='Videocon_DTH' name='ca_videocon_5' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Videocon_DTH' name='ind_vc_1' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Videocon_DTH' name='ind_vc_2' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Videocon_DTH' name='ind_vc_3' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Videocon_DTH' name='ca_videocon_5' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' category='tv'>
-        <remote country='India' manufacture='Videocon_DTH' name='tv_videocon_6' />
-        <remote country='India' manufacture='Videocon_DTH' name='tv_videocon_7' />
-        <remote country='India' manufacture='Videocon_DTH' name='tv_videocon_8' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Videocon_DTH' name='tv_videocon_6' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Videocon_DTH' name='tv_videocon_7' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Videocon_DTH' name='tv_videocon_8' />
     </remotes>
 
 
     <!--com.osfunapps.remoteformovil.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Panama" manufacture="Movil" name="pana_+movil_1" />
+        <DoNoTeDiTaNyMoRe country="Panama" manufacture="Movil" name="pana_+movil_1" />
     </remotes>
 
 
     <!--com.osfunapps.remoteforviasatukrain.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Ukraine" manufacture="Viasat" name="ukr_viasat_1" />
-        <remote country="Ukraine" manufacture="Viasat" name="ukr_viasat_2" />
-        <remote country="Ukraine" manufacture="Viasat" name="ukr_viasat_4" />
-        <remote country="Ukraine" manufacture="Viasat" name="ukr_viasat_5" />
-        <remote country="Ukraine" manufacture="Viasat" name="ukr_viasat_6" />
+        <DoNoTeDiTaNyMoRe country="Ukraine" manufacture="Viasat" name="ukr_viasat_1" />
+        <DoNoTeDiTaNyMoRe country="Ukraine" manufacture="Viasat" name="ukr_viasat_2" />
+        <DoNoTeDiTaNyMoRe country="Ukraine" manufacture="Viasat" name="ukr_viasat_4" />
+        <DoNoTeDiTaNyMoRe country="Ukraine" manufacture="Viasat" name="ukr_viasat_5" />
+        <DoNoTeDiTaNyMoRe country="Ukraine" manufacture="Viasat" name="ukr_viasat_6" />
     </remotes>
 
 
     <!--com.osfunapps.remoteForSitiDigital.xml-->
     <remotes storage='weedle_remotes_bucket' path='remotes' category='cable'>
 
-        <remote country='India' manufacture='Siti_Digital' name='ind_siti_1' />
-        <remote country='India' manufacture='Siti_Digital' name='ind_siti_2' />
-        <remote country='India' manufacture='Siti_Digital' name='ind_siti_3' />
-        <remote country='India' manufacture='Siti_Digital' name='ind_siti_4' />
-        <remote country='India' manufacture='Siti_Digital' name='ind_siti_5' />
-        <remote country='India' manufacture='Siti_Digital' name='ind_siti_6' />
-        <remote country='India' manufacture='Siti_Digital' name='ca_siti_7' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Siti_Digital' name='ind_siti_1' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Siti_Digital' name='ind_siti_2' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Siti_Digital' name='ind_siti_3' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Siti_Digital' name='ind_siti_4' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Siti_Digital' name='ind_siti_5' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Siti_Digital' name='ind_siti_6' />
+        <DoNoTeDiTaNyMoRe country='India' manufacture='Siti_Digital' name='ca_siti_7' />
 
     </remotes>
 
@@ -844,18 +844,18 @@ remote name: ar, category name: audio_receiver
     <!--com.osfunapps.remoteforsaorview.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Ireland" manufacture="Saor_View" name="irl_saorview_1" />
-        <remote country="Ireland" manufacture="Saor_View" name="irl_saorview_2" />
-        <remote country="Ireland" manufacture="Saor_View" name="irl_saorview_3" />
-        <remote country="Ireland" manufacture="Saor_View" name="irl_saorview_4" />
+        <DoNoTeDiTaNyMoRe country="Ireland" manufacture="Saor_View" name="irl_saorview_1" />
+        <DoNoTeDiTaNyMoRe country="Ireland" manufacture="Saor_View" name="irl_saorview_2" />
+        <DoNoTeDiTaNyMoRe country="Ireland" manufacture="Saor_View" name="irl_saorview_3" />
+        <DoNoTeDiTaNyMoRe country="Ireland" manufacture="Saor_View" name="irl_saorview_4" />
     </remotes>
 
 
     <!--com.osfunapps.remoteforkogan.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Australia" manufacture="Kogan" name="aus_kogan_1" />
-        <remote country="Australia" manufacture="Kogan" name="aus_kogan_2" />
+        <DoNoTeDiTaNyMoRe country="Australia" manufacture="Kogan" name="aus_kogan_1" />
+        <DoNoTeDiTaNyMoRe country="Australia" manufacture="Kogan" name="aus_kogan_2" />
 
     </remotes>
 
@@ -863,11 +863,11 @@ remote name: ar, category name: audio_receiver
     <!--com.osfunapps.RemoteforSunDirect.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="India" manufacture="Sun Direct" name="ind_sun_direct_1" />
-        <remote country="India" manufacture="Sun Direct" name="ind_sun_direct_2" />
-        <remote country="India" manufacture="Sun Direct" name="ind_sun_direct_3" />
-        <remote country="India" manufacture="Sun Direct" name="ind_sun_direct_4" />
-        <remote country="India" manufacture="Sun Direct" name="ind_sun_direct_5" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="Sun Direct" name="ind_sun_direct_1" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="Sun Direct" name="ind_sun_direct_2" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="Sun Direct" name="ind_sun_direct_3" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="Sun Direct" name="ind_sun_direct_4" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="Sun Direct" name="ind_sun_direct_5" />
 
     </remotes>
 
@@ -875,734 +875,734 @@ remote name: ar, category name: audio_receiver
     <!--com.osfunapps.remoteforradiantdigitek.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="India" manufacture="radiant_digitek" name="ind_radiant_digitek_1" />
-        <remote country="India" manufacture="radiant_digitek" name="ind_radiant_digitek_2_netvision_2" />
-        <remote country="India" manufacture="radiant_digitek" name="ind_radiant_digitek_3" />
-        <remote country="India" manufacture="radiant_digitek" name="ind_radiant_digitek_4" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="radiant_digitek" name="ind_radiant_digitek_1" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="radiant_digitek" name="ind_radiant_digitek_2_netvision_2" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="radiant_digitek" name="ind_radiant_digitek_3" />
+        <DoNoTeDiTaNyMoRe country="India" manufacture="radiant_digitek" name="ind_radiant_digitek_4" />
     </remotes>
 
 
     <!--com.osfunapps.remoteforlguplus.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="South_Korea" manufacture="LG" name="sk_lg_u_plus_1" />
-        <remote country="South_Korea" manufacture="LG" name="sk_lg_u_plus_2" />
+        <DoNoTeDiTaNyMoRe country="South_Korea" manufacture="LG" name="sk_lg_u_plus_1" />
+        <DoNoTeDiTaNyMoRe country="South_Korea" manufacture="LG" name="sk_lg_u_plus_2" />
     </remotes>
 
 
     <!--com.osfunapps.remoteforskylife.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="South_Korea" manufacture="Sky_Life" name="sk_skylife_1" />
-        <remote country="South_Korea" manufacture="Sky_Life" name="sk_skylife_2" />
-        <remote country="South_Korea" manufacture="Sky_Life" name="sk_skylife_3" />
-        <remote country="South_Korea" manufacture="Sky_Life" name="sk_skylife_4" />
-        <remote country="South_Korea" manufacture="Sky_Life" name="sk_skylife_5" />
-        <remote country="South_Korea" manufacture="Sky_Life" name="sk_skylife_6" />
+        <DoNoTeDiTaNyMoRe country="South_Korea" manufacture="Sky_Life" name="sk_skylife_1" />
+        <DoNoTeDiTaNyMoRe country="South_Korea" manufacture="Sky_Life" name="sk_skylife_2" />
+        <DoNoTeDiTaNyMoRe country="South_Korea" manufacture="Sky_Life" name="sk_skylife_3" />
+        <DoNoTeDiTaNyMoRe country="South_Korea" manufacture="Sky_Life" name="sk_skylife_4" />
+        <DoNoTeDiTaNyMoRe country="South_Korea" manufacture="Sky_Life" name="sk_skylife_5" />
+        <DoNoTeDiTaNyMoRe country="South_Korea" manufacture="Sky_Life" name="sk_skylife_6" />
     </remotes>
 
 
     <!--com.osapps.hotremote.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Israel" manufacture="hot" name="isr_hot_1" />
-        <remote country="Israel" manufacture="hot" name="isr_hot_2" />
+        <DoNoTeDiTaNyMoRe country="Israel" manufacture="hot" name="isr_hot_1" />
+        <DoNoTeDiTaNyMoRe country="Israel" manufacture="hot" name="isr_hot_2" />
     </remotes>
 
 
     <!--com.osfunapps.RemoteforTalkTalkYouView.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="England" manufacture="Talk_Talk" name="eng_talktalk_1" />
-        <remote country="England" manufacture="Talk_Talk" name="eng_talktalk_2" />
+        <DoNoTeDiTaNyMoRe country="England" manufacture="Talk_Talk" name="eng_talktalk_1" />
+        <DoNoTeDiTaNyMoRe country="England" manufacture="Talk_Talk" name="eng_talktalk_2" />
     </remotes>
 
 
     <!--com.osfunapps.remotefordigi.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Romania" manufacture="Digi" name="rom_digi_1" />
-        <remote country="Romania" manufacture="Digi" name="rom_digi_2" />
-        <remote country="Romania" manufacture="Digi" name="rom_digi_4" />
-        <remote country="Romania" manufacture="Digi" name="rom_digi_5" />
-        <remote country="Romania" manufacture="Digi" name="rom_digi_6" />
-        <remote country="Romania" manufacture="Digi" name="rom_digi_7" />
-        <remote country="Romania" manufacture="Digi" name="rom_digi_8" />
-        <remote country="Romania" manufacture="Digi" name="rom_digi_9" />
-        <remote country="Romania" manufacture="Digi" name="rom_digi_10" />
+        <DoNoTeDiTaNyMoRe country="Romania" manufacture="Digi" name="rom_digi_1" />
+        <DoNoTeDiTaNyMoRe country="Romania" manufacture="Digi" name="rom_digi_2" />
+        <DoNoTeDiTaNyMoRe country="Romania" manufacture="Digi" name="rom_digi_4" />
+        <DoNoTeDiTaNyMoRe country="Romania" manufacture="Digi" name="rom_digi_5" />
+        <DoNoTeDiTaNyMoRe country="Romania" manufacture="Digi" name="rom_digi_6" />
+        <DoNoTeDiTaNyMoRe country="Romania" manufacture="Digi" name="rom_digi_7" />
+        <DoNoTeDiTaNyMoRe country="Romania" manufacture="Digi" name="rom_digi_8" />
+        <DoNoTeDiTaNyMoRe country="Romania" manufacture="Digi" name="rom_digi_9" />
+        <DoNoTeDiTaNyMoRe country="Romania" manufacture="Digi" name="rom_digi_10" />
     </remotes>
 
 
     <!--com.osfunapps.remoteforktolleh.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="South_Korea" manufacture="KT_Olleh" name="sk_kt_olleh_2" />
-        <remote country="South_Korea" manufacture="KT_Olleh" name="sk_kt_olleh_3" />
-        <remote country="South_Korea" manufacture="KT_Olleh" name="sk_kt_olleh_4" />
-        <remote country="South_Korea" manufacture="KT_Olleh" name="sk_kt_olleh_5" />
+        <DoNoTeDiTaNyMoRe country="South_Korea" manufacture="KT_Olleh" name="sk_kt_olleh_2" />
+        <DoNoTeDiTaNyMoRe country="South_Korea" manufacture="KT_Olleh" name="sk_kt_olleh_3" />
+        <DoNoTeDiTaNyMoRe country="South_Korea" manufacture="KT_Olleh" name="sk_kt_olleh_4" />
+        <DoNoTeDiTaNyMoRe country="South_Korea" manufacture="KT_Olleh" name="sk_kt_olleh_5" />
     </remotes>
 
 
     <!--com.osfunapps.remoteforfocussat.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Romania" manufacture="Focus_Sat" name="rom_focussat_1" />
-        <remote country="Romania" manufacture="Focus_Sat" name="rom_focussat_2" />
+        <DoNoTeDiTaNyMoRe country="Romania" manufacture="Focus_Sat" name="rom_focussat_1" />
+        <DoNoTeDiTaNyMoRe country="Romania" manufacture="Focus_Sat" name="rom_focussat_2" />
     </remotes>
 
 
     <!--com.osfunapps.remotefortigo.xml-->
     <remotes category="cable" path="remotes" storage="weedle_remotes_bucket">
 
-        <remote country="Honduras" manufacture="Tigo" name="hond_tigo_1" />
-        <remote country="Honduras" manufacture="Tigo" name="hond_tigo_2" />
-        <remote country="Honduras" manufacture="Tigo" name="hond_tigo_3" />
-        <remote country="Honduras" manufacture="Tigo" name="hond_tigo_4" />
-        <remote country="Panama" manufacture="Tigo" name="pana_cable_onda_tigo_1" />
-        <remote country="Panama" manufacture="Tigo" name="pana_cable_onda_tigo_2" />
-        <remote country="Panama" manufacture="Tigo" name="pana_cable_onda_tigo_3" />
-        <remote country="Panama" manufacture="Tigo" name="pana_cable_onda_tigo_4" />
+        <DoNoTeDiTaNyMoRe country="Honduras" manufacture="Tigo" name="hond_tigo_1" />
+        <DoNoTeDiTaNyMoRe country="Honduras" manufacture="Tigo" name="hond_tigo_2" />
+        <DoNoTeDiTaNyMoRe country="Honduras" manufacture="Tigo" name="hond_tigo_3" />
+        <DoNoTeDiTaNyMoRe country="Honduras" manufacture="Tigo" name="hond_tigo_4" />
+        <DoNoTeDiTaNyMoRe country="Panama" manufacture="Tigo" name="pana_cable_onda_tigo_1" />
+        <DoNoTeDiTaNyMoRe country="Panama" manufacture="Tigo" name="pana_cable_onda_tigo_2" />
+        <DoNoTeDiTaNyMoRe country="Panama" manufacture="Tigo" name="pana_cable_onda_tigo_3" />
+        <DoNoTeDiTaNyMoRe country="Panama" manufacture="Tigo" name="pana_cable_onda_tigo_4" />
     </remotes>
     <!-- OSFUNAPPS BUCKET END -->
 
 
     <!-- OZVI BUCKET START -->
     <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Aux' category='ac' country='worldwide'>
-        <remote name='ac_aux_1' />
+        <DoNoTeDiTaNyMoRe name='ac_aux_1' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Black And Decker' category='ac' country='worldwide'>
-        <remote name='ac_black_and_decker_1' />
+        <DoNoTeDiTaNyMoRe name='ac_black_and_decker_1' />
     </remotes>
 
 
     <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Blue Star' category='ac' country='worldwide'>
-        <remote name='ac_blue_1' />
-        <remote name='ac_blue_2' />
-        <remote name='ac_blue_3' />
-        <remote name='ac_blue_4' />
-        <remote name='ac_blue_5' />
-        <remote name='ac_blue_6' />
-        <remote name='ac_blue_7' />
-        <remote name='ac_blue_8' />
-        <remote name='ac_blue_9' />
-        <remote name='ac_blue_10' />
-        <remote name='ac_blue_11' />
+        <DoNoTeDiTaNyMoRe name='ac_blue_1' />
+        <DoNoTeDiTaNyMoRe name='ac_blue_2' />
+        <DoNoTeDiTaNyMoRe name='ac_blue_3' />
+        <DoNoTeDiTaNyMoRe name='ac_blue_4' />
+        <DoNoTeDiTaNyMoRe name='ac_blue_5' />
+        <DoNoTeDiTaNyMoRe name='ac_blue_6' />
+        <DoNoTeDiTaNyMoRe name='ac_blue_7' />
+        <DoNoTeDiTaNyMoRe name='ac_blue_8' />
+        <DoNoTeDiTaNyMoRe name='ac_blue_9' />
+        <DoNoTeDiTaNyMoRe name='ac_blue_10' />
+        <DoNoTeDiTaNyMoRe name='ac_blue_11' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Bosch' category='ac' country='worldwide'>
-        <remote name='ac_bosch_1' />
+        <DoNoTeDiTaNyMoRe name='ac_bosch_1' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Boss' category='ac' country='worldwide'>
-        <remote name='ac_boss_1' />
+        <DoNoTeDiTaNyMoRe name='ac_boss_1' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Carrier' category='ac' country='worldwide'>
-        <remote name='ac_car_1' />
-        <remote name='ac_car_2' />
-        <remote name='ac_carrier_3' />
-        <remote name='ac_carrier_4' />
-        <remote name='ac_carrier_5' />
-        <remote name='ac_carrier_6' />
-        <remote name='ac_car_7' />
-        <remote name='ac_carrier_8' />
+        <DoNoTeDiTaNyMoRe name='ac_car_1' />
+        <DoNoTeDiTaNyMoRe name='ac_car_2' />
+        <DoNoTeDiTaNyMoRe name='ac_carrier_3' />
+        <DoNoTeDiTaNyMoRe name='ac_carrier_4' />
+        <DoNoTeDiTaNyMoRe name='ac_carrier_5' />
+        <DoNoTeDiTaNyMoRe name='ac_carrier_6' />
+        <DoNoTeDiTaNyMoRe name='ac_car_7' />
+        <DoNoTeDiTaNyMoRe name='ac_carrier_8' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Daikin' category='ac' country='worldwide'>
-        <remote name='ac_daikin_1' />
-        <remote name='ac_daikin_2' />
-        <remote name='ac_daikin_3' />
-        <remote name='ac_dalk_4' />
-        <remote name='ac_daikin_5' />
-        <remote name='ac_daikin_6' />
-        <remote name='ac_dalk_7' />
-        <remote name='ac_dalk_8' />
-        <remote name='ac_daikin_9' />
+        <DoNoTeDiTaNyMoRe name='ac_daikin_1' />
+        <DoNoTeDiTaNyMoRe name='ac_daikin_2' />
+        <DoNoTeDiTaNyMoRe name='ac_daikin_3' />
+        <DoNoTeDiTaNyMoRe name='ac_dalk_4' />
+        <DoNoTeDiTaNyMoRe name='ac_daikin_5' />
+        <DoNoTeDiTaNyMoRe name='ac_daikin_6' />
+        <DoNoTeDiTaNyMoRe name='ac_dalk_7' />
+        <DoNoTeDiTaNyMoRe name='ac_dalk_8' />
+        <DoNoTeDiTaNyMoRe name='ac_daikin_9' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Electrolux' category='ac' country='worldwide'>
-        <remote name='ac_electrolux_1' />
-        <remote name='ac_electrolux_2' />
-        <remote name='ac_electrolux_3' />
-        <remote name='ac_electrolux_4' />
-        <remote name='ac_electrolux_5' />
-        <remote name='ac_electrolux_6' />
-        <remote name='ac_electrolux_8' />
-        <remote name='ac_electrolux_9' />
+        <DoNoTeDiTaNyMoRe name='ac_electrolux_1' />
+        <DoNoTeDiTaNyMoRe name='ac_electrolux_2' />
+        <DoNoTeDiTaNyMoRe name='ac_electrolux_3' />
+        <DoNoTeDiTaNyMoRe name='ac_electrolux_4' />
+        <DoNoTeDiTaNyMoRe name='ac_electrolux_5' />
+        <DoNoTeDiTaNyMoRe name='ac_electrolux_6' />
+        <DoNoTeDiTaNyMoRe name='ac_electrolux_8' />
+        <DoNoTeDiTaNyMoRe name='ac_electrolux_9' />
 
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Fujitsu' category='ac' country='worldwide'>
-        <remote name='ac_fuji_1' />
+        <DoNoTeDiTaNyMoRe name='ac_fuji_1' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Gree' category='ac' country='worldwide'>
-        <remote name='ac_gree_1' />
-        <remote name='ac_gree_2' />
-        <remote name='ac_gree_3' />
-        <remote name='ac_gree_5' />
+        <DoNoTeDiTaNyMoRe name='ac_gree_1' />
+        <DoNoTeDiTaNyMoRe name='ac_gree_2' />
+        <DoNoTeDiTaNyMoRe name='ac_gree_3' />
+        <DoNoTeDiTaNyMoRe name='ac_gree_5' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Haier' category='ac' country='worldwide'>
-        <remote name='ac_haier_1' />
-        <remote name='ac_haier_2' />
-        <remote name='ac_haier_4' />
-        <remote name='ac_hai_5' />
-        <remote name='ac_haier_6' />
-        <remote name='ac_hai_7' />
-        <remote name='ac_haier_8' />
-        <remote name='ac_haier_9' />
-        <remote name='ac_hai_10' />
-        <remote name='ac_haier_11' />
-        <remote name='ac_haier_12' />
-        <remote name='ac_hai_13' />
+        <DoNoTeDiTaNyMoRe name='ac_haier_1' />
+        <DoNoTeDiTaNyMoRe name='ac_haier_2' />
+        <DoNoTeDiTaNyMoRe name='ac_haier_4' />
+        <DoNoTeDiTaNyMoRe name='ac_hai_5' />
+        <DoNoTeDiTaNyMoRe name='ac_haier_6' />
+        <DoNoTeDiTaNyMoRe name='ac_hai_7' />
+        <DoNoTeDiTaNyMoRe name='ac_haier_8' />
+        <DoNoTeDiTaNyMoRe name='ac_haier_9' />
+        <DoNoTeDiTaNyMoRe name='ac_hai_10' />
+        <DoNoTeDiTaNyMoRe name='ac_haier_11' />
+        <DoNoTeDiTaNyMoRe name='ac_haier_12' />
+        <DoNoTeDiTaNyMoRe name='ac_hai_13' />
 
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Hisense' category='ac' country='worldwide'>
-        <remote name='ac_his_1' />
-        <remote name='ac_hisense_2' />
-        <remote name='ac_hisense_3' />
-        <remote name='ac_his_4' />
+        <DoNoTeDiTaNyMoRe name='ac_his_1' />
+        <DoNoTeDiTaNyMoRe name='ac_hisense_2' />
+        <DoNoTeDiTaNyMoRe name='ac_hisense_3' />
+        <DoNoTeDiTaNyMoRe name='ac_his_4' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Hitachi' category='ac' country='worldwide'>
-        <remote name='ac_hit_2' />
-        <remote name='ac_hitachi_3' />
-        <remote name='ac_hitachi_4' />
-        <remote name='ac_hit_5' />
-        <remote name='ac_hit_6' />
-        <remote name='ac_hitachi_7' />
+        <DoNoTeDiTaNyMoRe name='ac_hit_2' />
+        <DoNoTeDiTaNyMoRe name='ac_hitachi_3' />
+        <DoNoTeDiTaNyMoRe name='ac_hitachi_4' />
+        <DoNoTeDiTaNyMoRe name='ac_hit_5' />
+        <DoNoTeDiTaNyMoRe name='ac_hit_6' />
+        <DoNoTeDiTaNyMoRe name='ac_hitachi_7' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Joker Multi' category='ac' country='worldwide'>
-        <remote name='ac_joker_multi_1' />
+        <DoNoTeDiTaNyMoRe name='ac_joker_multi_1' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='LG' category='ac' country='worldwide'>
-        <remote name='ac_lg_1' />
-        <remote name='ac_lg_2' />
-        <remote name='ac_lg_3' />
-        <remote name='ac_lg_4' />
-        <remote name='ac_lg_5' />
-        <remote name='ac_lg_6' />
-        <remote name='ac_lg_7' />
-        <remote name='ac_lg_10' />
-        <remote name='ac_lg_11' />
-        <remote name='ac_lg_12' />
-        <remote name='ac_lg_13' />
-        <remote name='ac_lg_14' />
-        <remote name='ac_lg_15' />
-        <remote name='ac_lg_16' />
+        <DoNoTeDiTaNyMoRe name='ac_lg_1' />
+        <DoNoTeDiTaNyMoRe name='ac_lg_2' />
+        <DoNoTeDiTaNyMoRe name='ac_lg_3' />
+        <DoNoTeDiTaNyMoRe name='ac_lg_4' />
+        <DoNoTeDiTaNyMoRe name='ac_lg_5' />
+        <DoNoTeDiTaNyMoRe name='ac_lg_6' />
+        <DoNoTeDiTaNyMoRe name='ac_lg_7' />
+        <DoNoTeDiTaNyMoRe name='ac_lg_10' />
+        <DoNoTeDiTaNyMoRe name='ac_lg_11' />
+        <DoNoTeDiTaNyMoRe name='ac_lg_12' />
+        <DoNoTeDiTaNyMoRe name='ac_lg_13' />
+        <DoNoTeDiTaNyMoRe name='ac_lg_14' />
+        <DoNoTeDiTaNyMoRe name='ac_lg_15' />
+        <DoNoTeDiTaNyMoRe name='ac_lg_16' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Midea' category='ac' country='worldwide'>
-        <remote name='ac_midea_1' />
+        <DoNoTeDiTaNyMoRe name='ac_midea_1' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Mitsubishi' category='ac' country='worldwide'>
-        <remote name='ac_mit_1' />
-        <remote name='ac_mit_2' />
-        <remote name='ac_mit_3' />
-        <remote name='ac_mit_4' />
-        <remote name='ac_mit_5' />
-        <remote name='ac_mit_6' />
-        <remote name='ac_mitsubishi_7' />
-        <remote name='ac_mit_8' />
-        <remote name='ac_mit_9' />
-        <remote name='ac_mitsubishi_10' />
+        <DoNoTeDiTaNyMoRe name='ac_mit_1' />
+        <DoNoTeDiTaNyMoRe name='ac_mit_2' />
+        <DoNoTeDiTaNyMoRe name='ac_mit_3' />
+        <DoNoTeDiTaNyMoRe name='ac_mit_4' />
+        <DoNoTeDiTaNyMoRe name='ac_mit_5' />
+        <DoNoTeDiTaNyMoRe name='ac_mit_6' />
+        <DoNoTeDiTaNyMoRe name='ac_mitsubishi_7' />
+        <DoNoTeDiTaNyMoRe name='ac_mit_8' />
+        <DoNoTeDiTaNyMoRe name='ac_mit_9' />
+        <DoNoTeDiTaNyMoRe name='ac_mitsubishi_10' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='National' category='ac' country='worldwide'>
-        <remote name='ac_national_1' />
+        <DoNoTeDiTaNyMoRe name='ac_national_1' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='O General' category='ac' country='worldwide'>
-        <remote name='ac_ogeneral_1' />
-        <remote name='ac_ogen_2' />
-        <remote name='ac_ogeneral_3' />
+        <DoNoTeDiTaNyMoRe name='ac_ogeneral_1' />
+        <DoNoTeDiTaNyMoRe name='ac_ogen_2' />
+        <DoNoTeDiTaNyMoRe name='ac_ogeneral_3' />
     </remotes>
 
 
     <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Onida' category='ac' country='worldwide'>
-        <remote name='ac_onida_1' />
-        <remote name='ac_onida_2' />
-        <remote name='ac_onida_3' />
+        <DoNoTeDiTaNyMoRe name='ac_onida_1' />
+        <DoNoTeDiTaNyMoRe name='ac_onida_2' />
+        <DoNoTeDiTaNyMoRe name='ac_onida_3' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Panasonic' category='ac' country='worldwide'>
-        <remote name='ac_panasonic_1' />
-        <remote name='ac_pan_2' />
-        <remote name='ac_pan_3' />
-        <remote name='ac_panasonic_4' />
-        <remote name='ac_panasonic_5' />
-        <remote name='ac_panasonic_6' />
-        <remote name='ac_panasonic_7' />
-        <remote name='ac_panasonic_8' />
-        <remote name='ac_panasonic_9' />
-        <remote name='ac_panasonic_10' />
-        <remote name='ac_panasonic_11' />
-        <remote name='ac_panasonic_12' />
-        <remote name='ac_lg_14' />
+        <DoNoTeDiTaNyMoRe name='ac_panasonic_1' />
+        <DoNoTeDiTaNyMoRe name='ac_pan_2' />
+        <DoNoTeDiTaNyMoRe name='ac_pan_3' />
+        <DoNoTeDiTaNyMoRe name='ac_panasonic_4' />
+        <DoNoTeDiTaNyMoRe name='ac_panasonic_5' />
+        <DoNoTeDiTaNyMoRe name='ac_panasonic_6' />
+        <DoNoTeDiTaNyMoRe name='ac_panasonic_7' />
+        <DoNoTeDiTaNyMoRe name='ac_panasonic_8' />
+        <DoNoTeDiTaNyMoRe name='ac_panasonic_9' />
+        <DoNoTeDiTaNyMoRe name='ac_panasonic_10' />
+        <DoNoTeDiTaNyMoRe name='ac_panasonic_11' />
+        <DoNoTeDiTaNyMoRe name='ac_panasonic_12' />
+        <DoNoTeDiTaNyMoRe name='ac_lg_14' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Samsung' category='ac' country='worldwide'>
-        <remote name='ac_samsung_1' />
-        <remote name='ac_samsung_2' />
-        <remote name='ac_samsung_3' />
-        <remote name='ac_sam_4' />
-        <remote name='ac_sam_5' />
-        <remote name='ac_sam_6' />
-        <remote name='ac_sam_8' />
-        <remote name='ac_sam_9' />
-        <remote name='ac_samsung_10' />
-        <remote name='ac_samsung_11' />
-        <remote name='ac_samsung_12' />
-        <remote name='ac_samsung_13' />
+        <DoNoTeDiTaNyMoRe name='ac_samsung_1' />
+        <DoNoTeDiTaNyMoRe name='ac_samsung_2' />
+        <DoNoTeDiTaNyMoRe name='ac_samsung_3' />
+        <DoNoTeDiTaNyMoRe name='ac_sam_4' />
+        <DoNoTeDiTaNyMoRe name='ac_sam_5' />
+        <DoNoTeDiTaNyMoRe name='ac_sam_6' />
+        <DoNoTeDiTaNyMoRe name='ac_sam_8' />
+        <DoNoTeDiTaNyMoRe name='ac_sam_9' />
+        <DoNoTeDiTaNyMoRe name='ac_samsung_10' />
+        <DoNoTeDiTaNyMoRe name='ac_samsung_11' />
+        <DoNoTeDiTaNyMoRe name='ac_samsung_12' />
+        <DoNoTeDiTaNyMoRe name='ac_samsung_13' />
     </remotes>
 
 
     <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Sanyo' category='ac' country='worldwide'>
-        <remote name='ac_san_1' />
-        <remote name='ac_sanyo_2' />
-        <remote name='ac_sanyo_3' />
-        <remote name='ac_san_4' />
-        <remote name='ac_san_5' />
+        <DoNoTeDiTaNyMoRe name='ac_san_1' />
+        <DoNoTeDiTaNyMoRe name='ac_sanyo_2' />
+        <DoNoTeDiTaNyMoRe name='ac_sanyo_3' />
+        <DoNoTeDiTaNyMoRe name='ac_san_4' />
+        <DoNoTeDiTaNyMoRe name='ac_san_5' />
 
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Sharp' category='ac' country='worldwide'>
-        <remote name='ac_sharp_1' />
-        <remote name='ac_sha_2' />
-        <remote name='ac_sharp_3' />
-        <remote name='ac_sharp_4' />
-        <remote name='ac_sha_5' />
-        <remote name='ac_sha_6' />
-        <remote name='ac_sha_8' />
-        <remote name='ac_sha_10' />
-        <remote name='ac_sharp_9' />
+        <DoNoTeDiTaNyMoRe name='ac_sharp_1' />
+        <DoNoTeDiTaNyMoRe name='ac_sha_2' />
+        <DoNoTeDiTaNyMoRe name='ac_sharp_3' />
+        <DoNoTeDiTaNyMoRe name='ac_sharp_4' />
+        <DoNoTeDiTaNyMoRe name='ac_sha_5' />
+        <DoNoTeDiTaNyMoRe name='ac_sha_6' />
+        <DoNoTeDiTaNyMoRe name='ac_sha_8' />
+        <DoNoTeDiTaNyMoRe name='ac_sha_10' />
+        <DoNoTeDiTaNyMoRe name='ac_sharp_9' />
 
 
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Toshiba' category='ac' country='worldwide'>
-        <remote name='ac_toshiba_1' />
-        <remote name='ac_tos_2' />
-        <remote name='ac_toshiba_3' />
-        <remote name='ac_toshiba_4' />
+        <DoNoTeDiTaNyMoRe name='ac_toshiba_1' />
+        <DoNoTeDiTaNyMoRe name='ac_tos_2' />
+        <DoNoTeDiTaNyMoRe name='ac_toshiba_3' />
+        <DoNoTeDiTaNyMoRe name='ac_toshiba_4' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Vestel' category='ac' country='worldwide'>
-        <remote name='ac_vestel_1' />
-        <remote name='ac_vestel_2' />
+        <DoNoTeDiTaNyMoRe name='ac_vestel_1' />
+        <DoNoTeDiTaNyMoRe name='ac_vestel_2' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Voltas' category='ac' country='worldwide'>
-        <remote name='ac_voltas_1' />
+        <DoNoTeDiTaNyMoRe name='ac_voltas_1' />
 
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='ac_remotes' manufacture='Whirlpool' category='ac' country='worldwide'>
-        <remote name='ac_whirlpool_1' />
-        <remote name='ac_whirlpool_2' />
-        <remote name='ac_whirlpool_3' />
-        <remote name='ac_whirlpool_4' />
-        <remote name='ac_whirlpool_5' />
+        <DoNoTeDiTaNyMoRe name='ac_whirlpool_1' />
+        <DoNoTeDiTaNyMoRe name='ac_whirlpool_2' />
+        <DoNoTeDiTaNyMoRe name='ac_whirlpool_3' />
+        <DoNoTeDiTaNyMoRe name='ac_whirlpool_4' />
+        <DoNoTeDiTaNyMoRe name='ac_whirlpool_5' />
 
     </remotes>
 
     <!-- DVB START-->
     <remotes storage='weedle_remotes_bucket' path='remotes' manufacture='DD Direct Dth' category='cable'>
 
-        <remote country='universal' name='dvb_direct_dth_1' />
-        <remote country='universal' name='dvb_direct_dth_2' />
-        <remote country='universal' name='dvb_direct_dth_3' />
+        <DoNoTeDiTaNyMoRe country='universal' name='dvb_direct_dth_1' />
+        <DoNoTeDiTaNyMoRe country='universal' name='dvb_direct_dth_2' />
+        <DoNoTeDiTaNyMoRe country='universal' name='dvb_direct_dth_3' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' category='cable'>
 
-        <remote country='universal' manufacture='Vivo' name='vv001' />
-        <remote country='universal' manufacture='Sherman' name='th001' />
-        <remote country='universal' manufacture='AJ' name='th008' />
-        <remote country='universal' manufacture='SAMART' name='th011' />
-        <remote country='universal' manufacture='Haier' name='th014' />
-        <remote country='universal' manufacture='Aconatic' name='th018' />
-        <remote country='universal' manufacture='NANO' name='th020' />
+        <DoNoTeDiTaNyMoRe country='universal' manufacture='Vivo' name='vv001' />
+        <DoNoTeDiTaNyMoRe country='universal' manufacture='Sherman' name='th001' />
+        <DoNoTeDiTaNyMoRe country='universal' manufacture='AJ' name='th008' />
+        <DoNoTeDiTaNyMoRe country='universal' manufacture='SAMART' name='th011' />
+        <DoNoTeDiTaNyMoRe country='universal' manufacture='Haier' name='th014' />
+        <DoNoTeDiTaNyMoRe country='universal' manufacture='Aconatic' name='th018' />
+        <DoNoTeDiTaNyMoRe country='universal' manufacture='NANO' name='th020' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' manufacture='DD Free Dish' category='cable'>
 
-        <remote country='universal' name='dvb_free_dish_1' />
-        <remote country='universal' name='dvb_free_dish_2' />
-        <remote country='universal' name='dvb_free_dish_3' />
-        <remote country='universal' name='dvb_free_dish_4' />
-        <remote country='universal' name='dvb_free_dish_5' />
-        <remote country='universal' name='dvb_free_dish_6' />
-        <remote country='universal' name='dvb_free_dish_7' />
-        <remote country='universal' name='dvb_free_dish_8' />
-        <remote country='universal' name='dvb_free_dish_9' />
-        <remote country='universal' name='dvb_free_dish_10' />
-        <remote country='universal' name='dvb_free_dish_12' />
-        <remote country='universal' name='dvb_free_dish_13' />
-        <remote country='universal' name='dvb_free_dish_14' />
-        <remote country='universal' name='dvb_free_dish_15' />
-        <remote country='universal' name='dvb_free_dish_16' />
-        <remote country='universal' name='dvb_free_dish_17' />
-        <remote country='universal' name='dvb_free_dish_18' />
-        <remote country='universal' name='dvb_free_dish_19' />
-        <remote country='universal' name='dvb_free_dish_20' />
-        <remote country='universal' name='dvb_free_dish_21' />
-        <remote country='universal' name='dvb_free_dish_22' />
+        <DoNoTeDiTaNyMoRe country='universal' name='dvb_free_dish_1' />
+        <DoNoTeDiTaNyMoRe country='universal' name='dvb_free_dish_2' />
+        <DoNoTeDiTaNyMoRe country='universal' name='dvb_free_dish_3' />
+        <DoNoTeDiTaNyMoRe country='universal' name='dvb_free_dish_4' />
+        <DoNoTeDiTaNyMoRe country='universal' name='dvb_free_dish_5' />
+        <DoNoTeDiTaNyMoRe country='universal' name='dvb_free_dish_6' />
+        <DoNoTeDiTaNyMoRe country='universal' name='dvb_free_dish_7' />
+        <DoNoTeDiTaNyMoRe country='universal' name='dvb_free_dish_8' />
+        <DoNoTeDiTaNyMoRe country='universal' name='dvb_free_dish_9' />
+        <DoNoTeDiTaNyMoRe country='universal' name='dvb_free_dish_10' />
+        <DoNoTeDiTaNyMoRe country='universal' name='dvb_free_dish_12' />
+        <DoNoTeDiTaNyMoRe country='universal' name='dvb_free_dish_13' />
+        <DoNoTeDiTaNyMoRe country='universal' name='dvb_free_dish_14' />
+        <DoNoTeDiTaNyMoRe country='universal' name='dvb_free_dish_15' />
+        <DoNoTeDiTaNyMoRe country='universal' name='dvb_free_dish_16' />
+        <DoNoTeDiTaNyMoRe country='universal' name='dvb_free_dish_17' />
+        <DoNoTeDiTaNyMoRe country='universal' name='dvb_free_dish_18' />
+        <DoNoTeDiTaNyMoRe country='universal' name='dvb_free_dish_19' />
+        <DoNoTeDiTaNyMoRe country='universal' name='dvb_free_dish_20' />
+        <DoNoTeDiTaNyMoRe country='universal' name='dvb_free_dish_21' />
+        <DoNoTeDiTaNyMoRe country='universal' name='dvb_free_dish_22' />
     </remotes>
 
     <!-- DVB END-->
     <!-- OZVI BUCKET START -->
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Malaysia' manufacture='Astro' category='cable'>
-        <remote name='ast001' />
-        <remote name='ast002' />
-        <remote name='ast003' />
-        <remote name='ast005' />
+        <DoNoTeDiTaNyMoRe name='ast001' />
+        <DoNoTeDiTaNyMoRe name='ast002' />
+        <DoNoTeDiTaNyMoRe name='ast003' />
+        <DoNoTeDiTaNyMoRe name='ast005' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Malaysia' manufacture='NJOI' category='cable'>
-        <remote name='ast004' />
+        <DoNoTeDiTaNyMoRe name='ast004' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Malaysia' manufacture='HyppTV' category='cable'>
-        <remote name='hyp001' />
+        <DoNoTeDiTaNyMoRe name='hyp001' />
     </remotes>
 
     <remotes storage='amplez_bucket' path='remotes' country='Worldwide' manufacture='ATT' category='cable'>
 
-        <remote name='dt001' />
-        <remote name='dt002' />
-        <remote name='dt003' />
-        <remote name='at001' />
-        <remote name='at002' />
+        <DoNoTeDiTaNyMoRe name='dt001' />
+        <DoNoTeDiTaNyMoRe name='dt002' />
+        <DoNoTeDiTaNyMoRe name='dt003' />
+        <DoNoTeDiTaNyMoRe name='at001' />
+        <DoNoTeDiTaNyMoRe name='at002' />
     </remotes>
 
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Finland' manufacture='Canal Digital' category='cable'>
-        <remote name='cd001' />
+        <DoNoTeDiTaNyMoRe name='cd001' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Israel' manufacture='Cellcom' category='cable'>
-        <remote name='cell001' />
-        <remote name='cell002_h' />
+        <DoNoTeDiTaNyMoRe name='cell001' />
+        <DoNoTeDiTaNyMoRe name='cell002_h' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='Claro' category='cable'>
-        <remote name='cl002' />
-        <remote name='cl003' />
+        <DoNoTeDiTaNyMoRe name='cl002' />
+        <DoNoTeDiTaNyMoRe name='cl003' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' manufacture='COX' country='USA' category='cable'>
-        <remote name='cx001_cisco' />
-        <remote name='cx001_moto' />
+        <DoNoTeDiTaNyMoRe name='cx001_cisco' />
+        <DoNoTeDiTaNyMoRe name='cx001_moto' />
     </remotes>
 
 
     <remotes storage='amplez_bucket' path='remotes' country='Worldwide' manufacture='DirecTV' category='cable'>
 
-        <remote name='dt001' />
-        <remote name='dt002' />
-        <remote name='dt003' />
-        <remote name='at001' />
-        <remote name='at002' />
+        <DoNoTeDiTaNyMoRe name='dt001' />
+        <DoNoTeDiTaNyMoRe name='dt002' />
+        <DoNoTeDiTaNyMoRe name='dt003' />
+        <DoNoTeDiTaNyMoRe name='at001' />
+        <DoNoTeDiTaNyMoRe name='at002' />
 
 
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='Dish Network' category='cable'>
-        <remote name='dn001' />
-        <remote name='dn002' />
-        <remote name='dn003' />
+        <DoNoTeDiTaNyMoRe name='dn001' />
+        <DoNoTeDiTaNyMoRe name='dn002' />
+        <DoNoTeDiTaNyMoRe name='dn003' />
 
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Turkey' manufacture='Dsmart' category='cable'>
-        <remote name='tr002' />
-        <remote name='tr001' />
-        <remote name='tr003' />
+        <DoNoTeDiTaNyMoRe name='tr002' />
+        <DoNoTeDiTaNyMoRe name='tr001' />
+        <DoNoTeDiTaNyMoRe name='tr003' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Finland' manufacture='Evolve' category='cable'>
-        <remote name='fi002' />
+        <DoNoTeDiTaNyMoRe name='fi002' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Brazil' manufacture='GVT' category='cable'>
-        <remote name='gvt001' />
+        <DoNoTeDiTaNyMoRe name='gvt001' />
     </remotes>
 
     <remotes storage='amplez_bucket' country='universal' path='remotes' manufacture='Hisense' category='tv'>
 
-        <remote name='hi001' />
-        <remote name='hi002' />
+        <DoNoTeDiTaNyMoRe name='hi001' />
+        <DoNoTeDiTaNyMoRe name='hi002' />
     </remotes>
 
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Indonesia' manufacture='IndoVision' category='cable'>
-        <remote name='inv001' />
+        <DoNoTeDiTaNyMoRe name='inv001' />
     </remotes>
 
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='LG' category='tv'>
-        <remote name='lg001' />
-        <remote name='lg002' />
-        <remote name='lg004' />
-        <remote name='lg005' />
-        <remote name='lg006' />
-        <remote name='lg007' />
+        <DoNoTeDiTaNyMoRe name='lg001' />
+        <DoNoTeDiTaNyMoRe name='lg002' />
+        <DoNoTeDiTaNyMoRe name='lg004' />
+        <DoNoTeDiTaNyMoRe name='lg005' />
+        <DoNoTeDiTaNyMoRe name='lg006' />
+        <DoNoTeDiTaNyMoRe name='lg007' />
     </remotes>
 
 
     <remotes storage='weedle_remotes_bucket' country='Brazil' path='remotes' manufacture='Net Digital' category='cable'>
-        <remote name='nd001' />
-        <remote name='nd002' />
+        <DoNoTeDiTaNyMoRe name='nd001' />
+        <DoNoTeDiTaNyMoRe name='nd002' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Indonesia' manufacture='Nexmedia' category='cable'>
-        <remote name='nx001' />
+        <DoNoTeDiTaNyMoRe name='nx001' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Greece' manufacture='Nova' category='cable'>
-        <remote name='gr003' />
+        <DoNoTeDiTaNyMoRe name='gr003' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Hong Kong' manufacture='NowTV' category='cable'>
-        <remote name='hk001' />
+        <DoNoTeDiTaNyMoRe name='hk001' />
     </remotes>
 
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Indonesia' manufacture='Orange' category='cable'>
-        <remote name='or001' />
+        <DoNoTeDiTaNyMoRe name='or001' />
     </remotes>
 
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='Roku' category='cable'>
-        <remote name='rk001' />
+        <DoNoTeDiTaNyMoRe name='rk001' />
     </remotes>
 
     <remotes country='universal' storage='amplez_bucket' path='remotes' manufacture='Sharp' category='tv'>
-        <remote name='sh001' />
-        <remote name='sh002' />
-        <remote name='sh003' />
-        <remote name='sh006' />
+        <DoNoTeDiTaNyMoRe name='sh001' />
+        <DoNoTeDiTaNyMoRe name='sh002' />
+        <DoNoTeDiTaNyMoRe name='sh003' />
+        <DoNoTeDiTaNyMoRe name='sh006' />
     </remotes>
 
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Georgia' manufacture='Silk TV' category='cable'>
-        <remote name='ge004' />
+        <DoNoTeDiTaNyMoRe name='ge004' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='Sony' category='tv'>
-        <remote name='s003' />
-        <remote name='s007' />
-        <remote name='s010' />
-        <remote name='s012' />
-        <remote name='s013' />
-        <remote name='s008' />
-        <remote name='s009' />
-        <remote name='s001' />
+        <DoNoTeDiTaNyMoRe name='s003' />
+        <DoNoTeDiTaNyMoRe name='s007' />
+        <DoNoTeDiTaNyMoRe name='s010' />
+        <DoNoTeDiTaNyMoRe name='s012' />
+        <DoNoTeDiTaNyMoRe name='s013' />
+        <DoNoTeDiTaNyMoRe name='s008' />
+        <DoNoTeDiTaNyMoRe name='s009' />
+        <DoNoTeDiTaNyMoRe name='s001' />
     </remotes>
 
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Singapore' manufacture='StarHub' category='cable'>
 
-        <remote name='sth001' />
-        <remote name='sth002' />
+        <DoNoTeDiTaNyMoRe name='sth001' />
+        <DoNoTeDiTaNyMoRe name='sth002' />
     </remotes>
 
 
     <remotes country='USA' storage='amplez_bucket' path='remotes' manufacture='Spectrum' category='cable'>
 
-        <remote name='tw001' />
-        <remote name='tw002' />
-        <remote name='spec001' />
+        <DoNoTeDiTaNyMoRe name='tw001' />
+        <DoNoTeDiTaNyMoRe name='tw002' />
+        <DoNoTeDiTaNyMoRe name='spec001' />
     </remotes>
 
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Turkey' manufacture='Tivibu' category='cable'>
-        <remote name='tr003' />
-        <remote name='tr001' />
-        <remote name='tr002' />
+        <DoNoTeDiTaNyMoRe name='tr003' />
+        <DoNoTeDiTaNyMoRe name='tr001' />
+        <DoNoTeDiTaNyMoRe name='tr002' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Finland' manufacture='Topfield' category='cable'>
-        <remote name='fi003' />
+        <DoNoTeDiTaNyMoRe name='fi003' />
     </remotes>
 
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='Verizon' category='cable'>
-        <remote name='fv001' />
-        <remote name='fv002' />
+        <DoNoTeDiTaNyMoRe name='fv001' />
+        <DoNoTeDiTaNyMoRe name='fv002' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='Vivo Viano' category='cable'>
-        <remote name='viv001' />
-        <remote name='viv002' />
+        <DoNoTeDiTaNyMoRe name='viv001' />
+        <DoNoTeDiTaNyMoRe name='viv002' />
 
     </remotes>
 
 
     <remotes storage='weedle_remotes_bucket' path='remotes' manufacture='Yes' country='Israel' category='cable'>
-        <remote name='yes002' />
-        <remote name='yes002a' />
-        <remote name='yes003' />
-        <remote name='yes003a' />
-        <remote name='yes001' />
+        <DoNoTeDiTaNyMoRe name='yes002' />
+        <DoNoTeDiTaNyMoRe name='yes002a' />
+        <DoNoTeDiTaNyMoRe name='yes003' />
+        <DoNoTeDiTaNyMoRe name='yes003a' />
+        <DoNoTeDiTaNyMoRe name='yes001' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Netherland' manufacture='Ziggo' category='cable'>
-        <remote name='zg001' />
-        <remote name='zg002' />
+        <DoNoTeDiTaNyMoRe name='zg001' />
+        <DoNoTeDiTaNyMoRe name='zg002' />
     </remotes>
 
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='ViewSonic' category='projector'>
-        <remote name='pr_view_sonic_1' />
+        <DoNoTeDiTaNyMoRe name='pr_view_sonic_1' />
     </remotes>
 
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='LG' category='projector'>
-        <remote name='pr_lg_1' />
+        <DoNoTeDiTaNyMoRe name='pr_lg_1' />
     </remotes>
 
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='Haier' category='tv'>
-        <remote name='th014' />
-        <remote name='tv_haier_1' />
-        <remote name='tv_haier_2' />
+        <DoNoTeDiTaNyMoRe name='th014' />
+        <DoNoTeDiTaNyMoRe name='tv_haier_1' />
+        <DoNoTeDiTaNyMoRe name='tv_haier_2' />
     </remotes>
 
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='LED' category='led'>
-        <!--<remote  name='led_1' />-->
-        <remote name='led_2' />
+        <!--<DoNoTeDiTaNyMoRe  name='led_1' />-->
+        <DoNoTeDiTaNyMoRe name='led_2' />
     </remotes>
 
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='Magnavox' category='dvr'>
-        <remote name='dvr_magnavox_1' />
+        <DoNoTeDiTaNyMoRe name='dvr_magnavox_1' />
     </remotes>
 
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='Hikvision' category='dvr'>
-        <remote name='dvr_hikvision_1' />
+        <DoNoTeDiTaNyMoRe name='dvr_hikvision_1' />
     </remotes>
 
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='Hitachi' category='projector'>
-        <remote name='pr_hitachi_1' />
+        <DoNoTeDiTaNyMoRe name='pr_hitachi_1' />
     </remotes>
 
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='Tivo' category='cable'>
-        <remote name='ca_tivo_1' />
+        <DoNoTeDiTaNyMoRe name='ca_tivo_1' />
     </remotes>
 
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='Xiaomi' category='tv_box'>
-        <remote name='tb_xiaomi_1' />
+        <DoNoTeDiTaNyMoRe name='tb_xiaomi_1' />
     </remotes>
 
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='Yamaha' category='audio_receiver'>
-        <remote name='ar_yamaha_1' />
+        <DoNoTeDiTaNyMoRe name='ar_yamaha_1' />
     </remotes>
 
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='universal' manufacture='Sanyo' category='projector'>
-        <remote name='pr_sanyo_1' />
+        <DoNoTeDiTaNyMoRe name='pr_sanyo_1' />
     </remotes>
 
 
     <remotes storage='weedle_remotes_bucket' path='ac_remotes' country='universal' manufacture='York' category='ac'>
-        <remote name='ac_york_1' />
+        <DoNoTeDiTaNyMoRe name='ac_york_1' />
     </remotes>
 
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='InFocus' category='projector'>
-        <remote name='pr_in_focus_1' />
+        <DoNoTeDiTaNyMoRe name='pr_in_focus_1' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Acer' category='projector'>
-        <remote name='pr_acer_1' />
-        <remote name='pr_acer_2' />
+        <DoNoTeDiTaNyMoRe name='pr_acer_1' />
+        <DoNoTeDiTaNyMoRe name='pr_acer_2' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Emerson' category='tv'>
-        <remote name='tv_emerson_1' />
+        <DoNoTeDiTaNyMoRe name='tv_emerson_1' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Freesat' category='cable'>
-        <remote name='ca_free_sat_1' />
-        <remote name='ca_free_sat_2' />
+        <DoNoTeDiTaNyMoRe name='ca_free_sat_1' />
+        <DoNoTeDiTaNyMoRe name='ca_free_sat_2' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Optoma' category='projector'>
-        <remote name='pr_optoma_1' />
-        <remote name='pr_optoma_2' />
+        <DoNoTeDiTaNyMoRe name='pr_optoma_1' />
+        <DoNoTeDiTaNyMoRe name='pr_optoma_2' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Huawei' category='tv_box'>
-        <remote name='tb_huawei_1' />
-        <remote name='tb_huawei_2' />
+        <DoNoTeDiTaNyMoRe name='tb_huawei_1' />
+        <DoNoTeDiTaNyMoRe name='tb_huawei_2' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='ac_remotes' country='Universal' manufacture='Beko' category='ac'>
-        <remote name='ac_beko_1' />
+        <DoNoTeDiTaNyMoRe name='ac_beko_1' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Sony' category='projector'>
-        <remote name='pr_sony_1' />
+        <DoNoTeDiTaNyMoRe name='pr_sony_1' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Xbox One' category='game'>
-        <remote name='gam_xbox_one_1' />
+        <DoNoTeDiTaNyMoRe name='gam_xbox_one_1' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Google Fiber' category='cable'>
-        <remote name='ca_google_fiber_1' />
+        <DoNoTeDiTaNyMoRe name='ca_google_fiber_1' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Channel Master' category='dvr'>
-        <remote name='dvr_channel_master_1' />
+        <DoNoTeDiTaNyMoRe name='dvr_channel_master_1' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='NEC' category='projector'>
-        <remote name='pr_nec_1' />
+        <DoNoTeDiTaNyMoRe name='pr_nec_1' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='BenQ' category='projector'>
-        <remote name='pr_benq_1' />
-        <remote name='pr_benq_2' />
+        <DoNoTeDiTaNyMoRe name='pr_benq_1' />
+        <DoNoTeDiTaNyMoRe name='pr_benq_2' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Casio' category='projector'>
-        <remote name='pr_casio_1' />
+        <DoNoTeDiTaNyMoRe name='pr_casio_1' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Apple' category='tv_box'>
-        <remote name='tb_apple_1' />
+        <DoNoTeDiTaNyMoRe name='tb_apple_1' />
     </remotes>
 
     <remotes storage='weedle_remotes_bucket' path='remotes' country='Universal' manufacture='Goodman' category='tv'>
-        <remote name='tv_goodman_1' />
+        <DoNoTeDiTaNyMoRe name='tv_goodman_1' />
     </remotes>
 
 
     <!--added 24.7 zvi todo need to add to universals-->
     <remotes storage='amplez_bucket' country='universal' path='remotes' manufacture='Sky Brazil' category='cable'>
-        <remote name='sk001' />
-        <remote name='sk003' />
+        <DoNoTeDiTaNyMoRe name='sk001' />
+        <DoNoTeDiTaNyMoRe name='sk003' />
 
     </remotes>
 
     <remotes storage='amplez_bucket' country='universal' path='remotes' manufacture='Philips' category='tv'>
-        <remote name='ph001' />
+        <DoNoTeDiTaNyMoRe name='ph001' />
 
     </remotes>
 
@@ -1615,71 +1615,71 @@ remote name: ar, category name: audio_receiver
     <!-- updated configs -->
     <remotes storage='osapps_bucket' path='remotes' category='cable'>
 
-        <remote country='Universal' manufacture='vizio' name='vizio_1' />
-        <remote country='Universal' manufacture='vizio' name='vizio_2' />
-        <remote country='Universal' manufacture='vizio' name='vizio_3' />
-        <remote country='Universal' manufacture='vizio' name='vizio_4' />
-        <remote country='Universal' manufacture='vizio' name='vizio_5' />
-        <remote country='Universal' manufacture='vizio' name='ca_vizio_10' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='vizio' name='vizio_1' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='vizio' name='vizio_2' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='vizio' name='vizio_3' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='vizio' name='vizio_4' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='vizio' name='vizio_5' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='vizio' name='ca_vizio_10' />
     </remotes>
 
     <remotes storage='osapps_bucket' path='remotes' category='sound_bar'>
-        <remote name='sb_vizio_6' country='Universal' manufacture='vizio' />
-        <remote name='sb_vizio_7' country='Universal' manufacture='vizio' />
-        <remote name='sb_vizio_8' country='Universal' manufacture='vizio' />
-        <remote name='sb_vizio_9' country='Universal' manufacture='vizio' />
+        <DoNoTeDiTaNyMoRe name='sb_vizio_6' country='Universal' manufacture='vizio' />
+        <DoNoTeDiTaNyMoRe name='sb_vizio_7' country='Universal' manufacture='vizio' />
+        <DoNoTeDiTaNyMoRe name='sb_vizio_8' country='Universal' manufacture='vizio' />
+        <DoNoTeDiTaNyMoRe name='sb_vizio_9' country='Universal' manufacture='vizio' />
     </remotes>
 
     <remotes storage='osapps_bucket' path='remotes' category='tv'>
-        <remote name='tv_vizio_11' country='Universal' manufacture='vizio' />
-        <remote name='tv_vizio_12' country='Universal' manufacture='vizio' />
-        <remote name='tv_vizio_13' country='Universal' manufacture='vizio' />
-        <remote name='tv_vizio_14' country='Universal' manufacture='vizio' />
-        <remote name='tv_vizio_15' country='Universal' manufacture='vizio' />
-        <remote name='tv_vizio_16' country='Universal' manufacture='vizio' />
-        <remote name='tv_vizio_17' country='Universal' manufacture='vizio' />
+        <DoNoTeDiTaNyMoRe name='tv_vizio_11' country='Universal' manufacture='vizio' />
+        <DoNoTeDiTaNyMoRe name='tv_vizio_12' country='Universal' manufacture='vizio' />
+        <DoNoTeDiTaNyMoRe name='tv_vizio_13' country='Universal' manufacture='vizio' />
+        <DoNoTeDiTaNyMoRe name='tv_vizio_14' country='Universal' manufacture='vizio' />
+        <DoNoTeDiTaNyMoRe name='tv_vizio_15' country='Universal' manufacture='vizio' />
+        <DoNoTeDiTaNyMoRe name='tv_vizio_16' country='Universal' manufacture='vizio' />
+        <DoNoTeDiTaNyMoRe name='tv_vizio_17' country='Universal' manufacture='vizio' />
     </remotes>
 
 
     <!--com.osfunapps.remoteforsamsung.xml-->
     <remotes storage='weedle_remotes_bucket' path='remotes' category='tv'>
 
-        <remote country='Universal' manufacture='Samsung' name='samsung_1' />
-        <remote country='Universal' manufacture='Samsung' name='samsung_2' />
-        <remote country='Universal' manufacture='Samsung' name='samsung_3' />
-        <remote country='Universal' manufacture='Samsung' name='samsung_4' />
-        <remote country='Universal' manufacture='Samsung' name='samsung_5' />
-        <remote country='Universal' manufacture='Samsung' name='samsung_6' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Samsung' name='samsung_1' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Samsung' name='samsung_2' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Samsung' name='samsung_3' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Samsung' name='samsung_4' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Samsung' name='samsung_5' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Samsung' name='samsung_6' />
 
 
-        <remote country='Universal' manufacture='Samsung' name='tv_samsung_7' />
-        <remote country='Universal' manufacture='Samsung' name='tv_samsung_8' />
-        <remote country='Universal' manufacture='Samsung' name='tv_samsung_9' />
-        <remote country='Universal' manufacture='Samsung' name='tv_samsung_10' />
-        <remote country='Universal' manufacture='Samsung' name='tv_samsung_11' />
-        <remote country='Universal' manufacture='Samsung' name='tv_samsung_12' />
-        <remote country='Universal' manufacture='Samsung' name='tv_samsung_13' />
-        <remote country='Universal' manufacture='Samsung' name='tv_samsung_14' />
-        <remote country='Universal' manufacture='Samsung' name='tv_samsung_16' />
-        <remote country='Universal' manufacture='Samsung' name='tv_samsung_17' />
-        <remote country='Universal' manufacture='Samsung' name='tv_samsung_18' />
-        <remote country='Universal' manufacture='Samsung' name='tv_samsung_19' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Samsung' name='tv_samsung_7' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Samsung' name='tv_samsung_8' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Samsung' name='tv_samsung_9' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Samsung' name='tv_samsung_10' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Samsung' name='tv_samsung_11' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Samsung' name='tv_samsung_12' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Samsung' name='tv_samsung_13' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Samsung' name='tv_samsung_14' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Samsung' name='tv_samsung_16' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Samsung' name='tv_samsung_17' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Samsung' name='tv_samsung_18' />
+        <DoNoTeDiTaNyMoRe country='Universal' manufacture='Samsung' name='tv_samsung_19' />
 
     </remotes>
     <!-- updated configs end -->
 
     <!-- updated remotes -->
-    <remote country='Universal' manufacture='vizio' name='ca_vizio_10' />
-    <remote name='sb_vizio_8' country='Universal' manufacture='vizio' />
-    <remote name='sb_vizio_9' country='Universal' manufacture='vizio' />
-    <remote name='tv_vizio_11' country='Universal' manufacture='vizio' />
-    <remote name='tv_vizio_12' country='Universal' manufacture='vizio' />
-    <remote name='tv_vizio_13' country='Universal' manufacture='vizio' />
-    <remote name='tv_vizio_14' country='Universal' manufacture='vizio' />
-    <remote name='tv_vizio_15' country='Universal' manufacture='vizio' />
-    <remote name='tv_vizio_16' country='Universal' manufacture='vizio' />
-    <remote name='tv_vizio_17' country='Universal' manufacture='vizio' />
-    <remote country='Universal' manufacture='Samsung' name='tv_samsung_19' />
+    <DoNoTeDiTaNyMoRe country='Universal' manufacture='vizio' name='ca_vizio_10' />
+    <DoNoTeDiTaNyMoRe name='sb_vizio_8' country='Universal' manufacture='vizio' />
+    <DoNoTeDiTaNyMoRe name='sb_vizio_9' country='Universal' manufacture='vizio' />
+    <DoNoTeDiTaNyMoRe name='tv_vizio_11' country='Universal' manufacture='vizio' />
+    <DoNoTeDiTaNyMoRe name='tv_vizio_12' country='Universal' manufacture='vizio' />
+    <DoNoTeDiTaNyMoRe name='tv_vizio_13' country='Universal' manufacture='vizio' />
+    <DoNoTeDiTaNyMoRe name='tv_vizio_14' country='Universal' manufacture='vizio' />
+    <DoNoTeDiTaNyMoRe name='tv_vizio_15' country='Universal' manufacture='vizio' />
+    <DoNoTeDiTaNyMoRe name='tv_vizio_16' country='Universal' manufacture='vizio' />
+    <DoNoTeDiTaNyMoRe name='tv_vizio_17' country='Universal' manufacture='vizio' />
+    <DoNoTeDiTaNyMoRe country='Universal' manufacture='Samsung' name='tv_samsung_19' />
     <!-- updated remotes end -->
 
 
